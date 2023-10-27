@@ -1,4 +1,4 @@
-# Inteleon-Suicune
+# Inteleon/Suicune
 
 Author: Sivta Tres
 
