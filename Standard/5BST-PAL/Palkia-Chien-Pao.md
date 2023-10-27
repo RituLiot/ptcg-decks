@@ -1,6 +1,6 @@
 # Palkia/Chien-Pao
 
-![decklist](../../!Images/Standard/5BST-PAL/Palkia-Chien-Pao.png)
+![decklist](../../!Images/Standard/5BST-PAL/Palkia-Chien-Pao.PNG)
 
 ## List
 * 2 Origin Forme Palkia V ASR 39
