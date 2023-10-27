@@ -1,6 +1,6 @@
 # Decidueye ex
 
-![decklist](../../!Images/Standard/6BST-OBF/Decidueye ex.PNG)
+![decklist](../../!Images/Standard/6BST-OBF/Decidueye%20ex.PNG)
 
 ## List
 * 1 Manaphy CRZ-GG 6
