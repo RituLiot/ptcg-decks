@@ -1,4 +1,4 @@
-# Arceus-Decidueye-Pikachu
+# Arceus/Decidueye/Pikachu
 
 Author: Ondřej Škubal
 
