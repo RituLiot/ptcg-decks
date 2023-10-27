@@ -2,7 +2,7 @@
 
 Author: N/A
 
-![decklist](../../!images/Standard/1SWSH-LOR/Eternatus-Weezing.png)
+![decklist](../../!Images/Standard/1SWSH-LOR/Eternatus-Weezing.png)
 
 ## List
 * 4 Crobat V PR-SW 110
