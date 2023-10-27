@@ -1,4 +1,4 @@
-# Lost Zone: Amazing Rares
+# Lost Zone Box: Amazing Rares
 
 Author: Nicholas Moffitt
 
