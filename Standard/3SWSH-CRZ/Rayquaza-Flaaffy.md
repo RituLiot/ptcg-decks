@@ -1,4 +1,4 @@
-# Rayquaza-Flaaffy
+# Rayquaza/Flaaffy
 
 Author: Sivta Tres
 
