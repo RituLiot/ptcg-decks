@@ -1,6 +1,6 @@
-# Fire Box
+# Armarouge Box
 
-![decklist](../../!Images/Standard/5BST-PAL/Fire%20Box.PNG)
+![decklist](../../!Images/Standard/5BST-PAL/Armarouge%20Box.PNG)
 
 ## List
 * 1 Manaphy CRZ-GG 6
