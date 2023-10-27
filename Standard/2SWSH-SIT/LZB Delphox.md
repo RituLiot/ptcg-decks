@@ -1,4 +1,4 @@
-# Lost Zone Delphox
+# Lost Zone Box: Delphox V
 
 Author: Sivta Tres
 
