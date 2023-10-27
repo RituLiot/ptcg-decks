@@ -1,6 +1,6 @@
 # Lunatone/Solrock
 
-Author: N/A
+Author: Sivta Tres
 
 ![decklist](../../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
 
