@@ -29,4 +29,4 @@ Author: PTCGL devs
 * 2 Serena SIT 164 PH
 * 4 Quick Ball SSH 179 PH
 * 6 Basic {D} Energy Energy 51 PH
-4 Hiding {D} Energy DAA 175 PH
+* 4 Hiding {D} Energy DAA 175 PH
