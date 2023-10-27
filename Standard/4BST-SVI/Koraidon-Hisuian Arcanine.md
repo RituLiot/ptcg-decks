@@ -1,4 +1,4 @@
-# Koraidon-Hisuian Arcanine
+# Koraidon/Hisuian Arcanine
 
 ![decklist](../../!Images/Standard/4BST-SVI/Koraidon-Hisuian%20Arcanine.png)
 
