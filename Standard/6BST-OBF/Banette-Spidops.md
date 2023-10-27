@@ -1,4 +1,4 @@
-# Banette-Spidops
+# Banette/Spidops
 
 ![decklist](../../!Images/Standard/6BST-OBF/Banette-Spidops.PNG)
 
