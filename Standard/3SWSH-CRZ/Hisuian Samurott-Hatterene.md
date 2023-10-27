@@ -2,7 +2,7 @@
 
 Author: Nocturne
 
-![decklist](../../!Images/Standard/3SWSH-CRZ/.png)
+![decklist](../../!Images/Standard/3SWSH-CRZ/Hisuian%20Samurott-Hatterene.PNG)
 
 ## List
 * 2 Crobat V SHF 044
