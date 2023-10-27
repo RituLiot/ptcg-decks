@@ -32,5 +32,5 @@ Author: N/A
 * 1 Speed {L} Energy RCL 173
 * 3 Capture Energy RCL 171
 * 4 Powerful {C} Energy DAA 176
-1 Heat {R} Energy DAA 174
-1 V Guard Energy SIT 169
+* 1 Heat {R} Energy DAA 174
+* 1 V Guard Energy SIT 169
