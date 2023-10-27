@@ -1,4 +1,4 @@
-# Koraidon-Ursaluna
+# Koraidon/Ursaluna
 
 ![decklist](../../!Images/Standard/4BST-SVI/Koraidon-Ursaluna.png)
 
