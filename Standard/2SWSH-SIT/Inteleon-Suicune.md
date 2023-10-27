@@ -26,4 +26,4 @@ Author: Sivta Tres
 * 3 Marnie SSH 169
 * 4 Capacious Bucket RCL 156
 * 2 Choice Belt BRS 135
-8 Basic {W} Energy Energy 38
+* 8 Basic {W} Energy Energy 38
