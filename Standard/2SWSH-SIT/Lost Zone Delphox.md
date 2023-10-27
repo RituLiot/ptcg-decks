@@ -2,7 +2,7 @@
 
 Author: Sivta Tres
 
-![decklist](../../!Images/Standard/2SWSH-SIT/Lost Zone Delphox.png)
+![decklist](../../!Images/Standard/2SWSH-SIT/Lost%20Zone%20Delphox.png)
 
 ## List
 * 1 Oranguru BRS 198
