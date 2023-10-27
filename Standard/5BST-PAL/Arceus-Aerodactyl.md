@@ -1,6 +1,6 @@
 # Arceus/Aerodactyl
 
-![decklist](../../!Images/Standard/4BST-SVI/Arceus-Aerodactyl.png)
+![decklist](../../!Images/Standard/5BST-PAL/Arceus-Aerodactyl.png)
 
 ## List
 * 1 Skwovet SVI 222
