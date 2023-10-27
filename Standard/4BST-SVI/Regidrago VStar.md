@@ -3,8 +3,6 @@
 ![decklist](../../!Images/Standard/4BST-SVI/Regidrago%20VStar.png)
 
 ## List
-Dr-dr-dr (8-1/89%)
-Pokémon: 12
 * 1 Lumineon V BRS 40
 * 1 Dragonite SIT 131
 * 1 Drapion V LOR 118
