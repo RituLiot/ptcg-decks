@@ -1,6 +1,6 @@
 # Copperajah/Magnezone
 
-![decklist](../../!Images/Standard/5BST-PAL/Copperajah%20ex.PNG)
+![decklist](../../!Images/Standard/5BST-PAL/Copperajah-Magnezone.PNG)
 
 ## List
 * 3 Magnezone ASR 107
