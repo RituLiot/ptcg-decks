@@ -1,6 +1,6 @@
 # Colorless Lugia/Archeops 
 
-![decklist](../../!Images/Standard/6BST-OBF/Lugia-Archeops%20Colorless.md.PNG)
+![decklist](../../!Images/Standard/6BST-OBF/Lugia-Archeops%20Colorless.PNG)
 
 ## List
 * 1 Wyrdeer V ASR 134
