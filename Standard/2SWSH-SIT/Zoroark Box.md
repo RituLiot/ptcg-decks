@@ -27,4 +27,4 @@ Author: Eric Smith
 * 2 Choice Belt BRS 135
 * 2 Double Turbo Energy BRS 151
 * 4 Twin Energy RCL 174
-4 Capture Energy RCL 171
+* 4 Capture Energy RCL 171
