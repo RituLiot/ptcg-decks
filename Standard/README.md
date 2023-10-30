@@ -1,5 +1,5 @@
 # Criteria
-Decks are being rated in **competitiveness**, **difficulty** of efficient play and **fun** of play.
+Decks (or, more broadly, archetypes) are being rated in **competitiveness**, **difficulty** of efficient play and **fun** of play.
 
 ## Competitiveness
 All decks above C+ tier appeared in day 2 of official tournaments (Regionals, ICs and WCs) at least once.
