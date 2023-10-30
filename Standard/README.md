@@ -3,23 +3,23 @@ Decks are being rated in **competitiveness**, **difficulty** of efficient play a
 
 ## Competitiveness
 All decks above C+ tier appeared in day 2 of official tournaments (Regionals, ICs and WCs) at least once.
-- **S:** Best Deck In Format
+- **S:**  Best Deck In Format
 - **A+:** Won several tournaments, takes up a significant amount of decks in meta.
-- **A:** Won once during format, takes consistent spots in Top8.
+- **A:**  Won once during format, takes consistent spots in Top8.
 - **A-:** Frequent Top8 and Top16, but haven't won just yet.
 - **B+:** Made 1-2 appearances in Top8, more in Top16.
-- **B:** Made an appearance in Top16, several in Top32.
+- **B:**  Made an appearance in Top16, several in Top32.
 - **B-:** Made an appearance in Top64.
 
 All decks in C+ tier and below haven't appeared in day 2 of official tournaments and use SP as a metric. SP stands for Setup+Power and is described below.
 - **C+:** SP6, one step away from being meta.
-- **C:** SP5, two steps away from being meta.
+- **C:**  SP5, two steps away from being meta.
 - **C-:** SP4, needs additional support from future sets.
 - **D+:** SP3, needs severe support from future sets.
-- **D:** SP2, win-rate of 50%.
+- **D:**  SP2, win-rate of 50%.
 - **D-:** SP1, win-rate of 30%.
-- **E:** SP0, 10% of time it works 100% of the time, barely playable.
-- **F:** Unplayable, reserved for biggest stinkers or memes.
+- **E:**  SP0, 10% of time it works 100% of the time, barely playable.
+- **F:**  Unplayable, reserved for biggest stinkers or memes.
 
 Setup is rated 0-3 by the following criteria:
 - Setup 3 - deck sets up with meta speed in vast majority of games.
