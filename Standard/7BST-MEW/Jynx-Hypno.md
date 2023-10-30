@@ -1,4 +1,4 @@
-# Jynx-Hypno
+# Jynx/Hypno
 
 > **Author**: TrustYourPilotTCG
 > 
