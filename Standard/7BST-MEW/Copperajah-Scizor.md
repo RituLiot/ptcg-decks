@@ -1,4 +1,4 @@
-# Copperajah-Scizor
+# Copperajah/Scizor
 
 > **Author**: Squack Mcquack
 > 
