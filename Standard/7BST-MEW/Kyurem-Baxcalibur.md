@@ -1,7 +1,8 @@
 # Kyurem/Baxcalibur
 
-- Author: Azul Garcia Griego
-- Competitiveness: C+ | Difficulty: Easy | Fun: A+
+> **Author:** Azul Garcia Griego
+> 
+> **Competitiveness:** C+ | **Difficulty:** Moderate | **Fun:** A+
 
 ![decklist](../../!Images/Standard/7BST-MEW/Kyurem-Baxcalibur.png)
 
