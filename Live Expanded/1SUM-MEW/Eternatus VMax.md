@@ -1,9 +1,9 @@
-# 
+# Bla
 
 > **Author**: 
 > 
 > **Competitiveness:**  | **Difficulty:**  | **Fun:** 
 
-![decklist](../../!Images/Live Expanded/1SUM-MEW/Eternatus%20VMax.PNG)
+![decklist](../../!Images/Live%20Expanded/1SUM-MEW/Eternatus%20VMax.PNG)
 
 ## List
