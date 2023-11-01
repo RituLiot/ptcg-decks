@@ -2,7 +2,7 @@
 
 > **Author**: Mateusz Łaszkiewicz
 > 
-> **Competitiveness:** B- | **Difficulty:** Medium | **Fun:** A-
+> **Competitiveness:** B- | **Difficulty:** Hard | **Fun:** A-
 
 ![decklist](../../!Images/Standard/7BST-MEW/Banette-Gardevoir.png)
 
