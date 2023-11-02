@@ -1,4 +1,4 @@
-# Eternatus /Weezing
+# Eternatus VMax/Galarian Weezing
 
 Author: N/A
 
