@@ -2,7 +2,7 @@
 
 **Author:** NEEETH | **Competitiveness:** C
 
-![decklist](../../!Images/Live%20Expanded/1SUM-MEW/.PNG)
+![decklist](../../!Images/Live%20Expanded/1SUM-MEW/Blacephalon.png)
 
 ## Thoughts
 This deck is really good against Stage 1 two-prizers — and kinda sucks against everything else. You need 6 energies against Stage 2 exs, and against single-prizers that take multiple prizes you cry. Maybe you could add some stuff to deal with both — *Welder* engine is a good one after all.
