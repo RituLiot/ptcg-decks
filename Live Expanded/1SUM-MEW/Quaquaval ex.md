@@ -1,6 +1,6 @@
 # Quaquaval ex
 
-**Author:** Expanded ShowRoom | **Competitiveness:** C
+**Author:** Expanded ShowRoom | **Competitiveness:** D
 
 ![decklist](../../!Images/Live%20Expanded/1SUM-MEW/Quaquaval%20ex.PNG)
 
