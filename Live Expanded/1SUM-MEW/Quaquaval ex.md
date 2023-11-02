@@ -1,11 +1,11 @@
 # Quaquaval ex
 
-**Author:** Expanded ShowRoom | **Competitiveness:** 
+**Author:** Expanded ShowRoom | **Competitiveness:** C
 
 ![decklist](../../!Images/Live%20Expanded/1SUM-MEW/Quaquaval%20ex.PNG)
 
 ## Thoughts
-
+The problem with this decklist (but possibly not archetype?) is that it doesn't utilize *Quaquaval ex*'s strengths and just sort of exists. While meta lacks ohko tools to deal with Stage 2 exs, it most certainly can pick them up, and then this deck just falls apart. I'd play this one with *Aqua Patch*es and Safeguard *Mimikyu*, but even then, this might not be enough. Could also make this into a tanking build with *Cheryl*s, but-but-but.
 
 ## List
 * 3 Quaquaval ex PAL 52
