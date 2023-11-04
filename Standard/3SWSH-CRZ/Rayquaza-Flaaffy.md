@@ -1,4 +1,4 @@
-# Rayquaza VMax/Flaaffy
+# Rayquaza/Flaaffy
 
 Author: Sivta Tres
 
