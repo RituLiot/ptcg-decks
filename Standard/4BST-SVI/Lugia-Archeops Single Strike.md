@@ -1,4 +1,4 @@
-# Single Strike Lugia VStar/Archeops
+# Single Strike Lugia/Archeops
 
 ![decklist](../../!Images/Standard/4BST-SVI/Lugia-Archeops%20Single%20Strike.png)
 
