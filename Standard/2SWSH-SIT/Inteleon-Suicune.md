@@ -1,4 +1,4 @@
-# Inteleon/Suicune
+# Inteleon VMax/Suicune V
 
 Author: Sivta Tres
 
