@@ -1,4 +1,4 @@
-# Braixen
+# Flare Parade Braixen
 
 Author: Eric Smith
 ![decklist](../../!Images/Standard/2SWSH-SIT/Braixen.PNG)
