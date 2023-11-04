@@ -1,4 +1,4 @@
-# Miraidon/Flaaffy
+# Miraidon ex/Flaaffy
 
 ![decklist](../../!Images/Standard/4BST-SVI/Miraidon-Flaaffy.png)
 
