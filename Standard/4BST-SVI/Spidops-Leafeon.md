@@ -1,4 +1,4 @@
-# Spidops-Leafeon
+# Spidops/Leafeon
 
 ![decklist](../../!Images/Standard/4BST-SVI/Spidops-Leafeon.png)
 
