@@ -1,4 +1,4 @@
-# Iron Treads ex/Doll Stall
+# Iron Treads/Doll Stall
 
 **Author:** じゅん | **Competitiveness:** E
 
