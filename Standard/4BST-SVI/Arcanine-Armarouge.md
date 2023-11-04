@@ -1,4 +1,4 @@
-# Arcanine ex
+# Arcanine ex/Armarouge
 
 ![decklist](../../!Images/Standard/4BST-SVI/Arcanine%20ex.png)
 
