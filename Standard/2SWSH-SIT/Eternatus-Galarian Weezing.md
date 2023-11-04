@@ -1,4 +1,4 @@
-# Eternatus VMax/Galarian Weezing
+# Eternatus/Galarian Weezing
 
 Author: Frank Percic
 
