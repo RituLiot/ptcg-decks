@@ -1,4 +1,4 @@
-# Pikachu/Flaaffy
+# Pikachu V-Union/Flaaffy
 
 Author: N/A
 
