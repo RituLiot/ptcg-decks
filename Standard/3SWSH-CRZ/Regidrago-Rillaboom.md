@@ -1,4 +1,4 @@
-# Regidrago/Rillaboom
+# Regidrago VStar/Rillaboom
 
 Author: N/A
 
