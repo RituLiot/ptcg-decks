@@ -1,4 +1,4 @@
-# Mewtwo V-Union/Gengar
+# Mewtwo/Gengar
 
 Author: Sander Wojcik
 
