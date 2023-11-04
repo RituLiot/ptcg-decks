@@ -1,4 +1,4 @@
-# Dialga VStar/Magnezone
+# Dialga/Magnezone
 
 ![decklist](../../!Images/Standard/4BST-SVI/Dialga-Magnezone.png)
 
