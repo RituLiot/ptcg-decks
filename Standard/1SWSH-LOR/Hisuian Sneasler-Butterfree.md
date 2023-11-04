@@ -1,4 +1,4 @@
-# Hisuian Sneasler V/Butterfree
+# Hisuian Sneasler/Butterfree
 
 Author: N/A
 
