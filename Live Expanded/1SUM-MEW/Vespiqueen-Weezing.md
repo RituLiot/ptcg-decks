@@ -1,4 +1,4 @@
-# Vespiqueen ex/Weezing
+# Vespiqueen/Weezing
 
 **Author:** GengarPlays | **Competitiveness:** E
 
