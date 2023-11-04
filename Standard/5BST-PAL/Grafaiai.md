@@ -1,4 +1,4 @@
-# Grafaiai
+# Colorful Graffiti Grafaiai
 
 ![decklist](../../!Images/Standard/5BST-PAL/Grafaiai.PNG)
 
