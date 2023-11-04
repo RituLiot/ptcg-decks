@@ -1,4 +1,4 @@
-# Zoroark Box
+# Zorobox
 
 Author: Eric Smith
 
