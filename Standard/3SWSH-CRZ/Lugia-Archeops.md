@@ -1,4 +1,4 @@
-# Lugia/Archeops
+# Lugia VStar/Archeops
 
 Author: N/A
 
