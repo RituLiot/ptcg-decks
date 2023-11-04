@@ -1,4 +1,4 @@
-# Palkia VStar/Inteleon
+# Palkia/Inteleon
 
 Author: Piper Lepine
 
