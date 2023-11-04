@@ -1,4 +1,4 @@
-# Lugia VStar/Archeops
+# Lugia/Archeops
 
 **Author:** MrDog | **Competitiveness:** A
 
