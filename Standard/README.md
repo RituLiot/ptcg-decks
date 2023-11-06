@@ -45,3 +45,7 @@ Difficulty can be one of the following:
 ## Fun
 
 Fun is subjective, is rated with tiers, and I won't elaborate on how exactly ¯\_(ツ)_/¯.
+
+## Addendum
+
+There's a two-week period when new set releases, but isn't legal for tournament play. These two weeks are unaccounted for in ratings.
