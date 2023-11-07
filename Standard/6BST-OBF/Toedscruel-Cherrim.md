@@ -1,4 +1,4 @@
-# Toedscruel ex
+# Toedscruel/Cherrim
 
 ![decklist](../../!Images/Standard/6BST-OBF/Toedscruel%20ex.PNG)
 
