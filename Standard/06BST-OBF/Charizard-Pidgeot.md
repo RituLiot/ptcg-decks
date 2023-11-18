@@ -1,4 +1,4 @@
-# Charizard ex
+# Charizard/Pidgeot
 
 ![decklist](../../!Images/Standard/6BST-OBF/Charizard-Arceus.PNG)
 
