@@ -1,4 +1,4 @@
-# Hisuian Samurott/Hatterene
+# Samurott/Hatterene
 
 Author: Nocturne
 
