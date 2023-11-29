@@ -1,4 +1,4 @@
-# Hisuian Sneasler/Butterfree
+# Sneasler/Butterfree
 
 Author: N/A
 
