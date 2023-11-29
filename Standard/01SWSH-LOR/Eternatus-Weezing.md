@@ -1,4 +1,4 @@
-# Eternatus/Galarian Weezing
+# Eternatus/Weezing
 
 Author: N/A
 
