@@ -1,4 +1,4 @@
-# Ice Rider Calyrex VMax
+# Palkia/Ice Rider Calyrex
 
 ![decklist](../../!Images/Standard/4BST-SVI/Ice%20Rider%20Calyrex%20VMax.png)
 
