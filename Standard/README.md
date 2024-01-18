@@ -18,7 +18,7 @@ All decks in C+ tier and below haven't appeared in day 2 of official tournaments
 - **D+:** SP3, needs severe support from future sets.
 - **D:**  SP2, win-rate of 50%.
 - **D-:** SP1, win-rate of 30%.
-- **E:**  SP0, 10% of time it works 100% of the time, barely playable.
+- **E:**  SP0, 10% of the time it works 100% of the time, barely playable.
 - **F:**  Unplayable, reserved for biggest stinkers or memes.
 
 Setup is rated 0-3 by the following criteria:
@@ -40,11 +40,11 @@ Difficulty can be one of the following:
 - Moderate - you'll spend eight-ten games to understand ins and outs of this deck.
 - Medium - you'll need good resource management and understand meta trends to play this deck out, but it's not too bad.
 - Hard - you'll have to spend **a lot** of time to play this deck to its fullest potential.
-- Extreme - *how tf do you play this?*
+- Extreme - *how* do you play this?
 
 ## Fun
 
-Fun is subjective, is rated with tiers, and I won't elaborate on how exactly ¯\_(ツ)_/¯.
+Fun is subjective, is rated with tiers, and I won't elaborate furher ¯\_(ツ)_/¯.
 
 ## Addendum
 
