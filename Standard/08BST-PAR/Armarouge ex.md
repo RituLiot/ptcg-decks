@@ -1,6 +1,6 @@
 # Armarouge ex
 
-> **Source**: Andrew Mahone, [video](https://www.youtube.com/watch?v=A-t1InHnISg)
+> **Source**: Andrew Mahone - [TrickyGym video](https://www.youtube.com/watch?v=A-t1InHnISg)
 > 
 > **Competitiveness:** D | **Difficulty:** Moderate | **Fun:** B
 
