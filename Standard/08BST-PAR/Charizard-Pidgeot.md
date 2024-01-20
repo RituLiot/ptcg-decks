@@ -2,7 +2,7 @@
 
 > **Source**: Erin Kingma - [2nd Place Regional Gdańsk](https://limitlesstcg.com/decks/list/9210)
 > 
-> **Competitiveness:** A | **Difficulty:** Hard | **Fun:** B+
+> **Competitiveness:** A | **Difficulty:** Medium | **Fun:** B+
 
 ![decklist](../../!Images/Standard/8BST-PAR/Charizard-Pidgeot.png)
 
