@@ -75,7 +75,7 @@
 
 > **Source**: PokeBaughn - N/A
 
-![decklist](../../!Images/Standard/8BST-PAR/.png)
+![decklist](../../!Images/Standard/8BST-PAR/Roaring%20Moon%20ex%20Water.png)
 
 [top](#roaring-moon-ex)
 
