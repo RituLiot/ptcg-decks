@@ -50,7 +50,7 @@
 
 ## Charizard/Bibarel/Toedscruel
 
-> **Source**: OmniPoke - [OmniPoke video](https://www.youtube.com/watch?v=kybpX1-AuMY)
+> **Source**: [OmniPoke video](https://www.youtube.com/watch?v=kybpX1-AuMY)
 
 ![decklist](../../!Images/Standard/8BST-PAR/Charizard-Bibarel-Toedscruel.png)
 
