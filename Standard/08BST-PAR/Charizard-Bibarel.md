@@ -2,8 +2,8 @@
 
 > **Competitiveness:** B+ | **Difficulty:** Hard | **Fun:** A
 
-* [Delphox](#Charizard/Bibarel/Delphox)
-* [Toedscruel](#Charizard/Bibarel/Toedscruel)
+* [Delphox](#charizardbibareldelphox)
+* [Toedscruel](#charizardbibareltoedscruel)
 
 ## Charizard/Bibarel/Delphox
 
@@ -11,7 +11,7 @@
 
 ![decklist](../../!Images/Standard/8BST-PAR/Charizard-Bibarel-Delphox.png)
 
-[top](#Charizard/Bibarel)
+[top](#charizardbibarel)
 
 ### List
 * 3 Charmander MEW 4
@@ -54,7 +54,7 @@
 
 ![decklist](../../!Images/Standard/8BST-PAR/Charizard-Bibarel-Toedscruel.png)
 
-[top](#Charizard/Bibarel)
+[top](#charizardbibarel)
 
 ### List
 * 3 Charmander MEW 4
