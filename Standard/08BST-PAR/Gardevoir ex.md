@@ -2,8 +2,8 @@
 
 > **Competitiveness:** A | **Difficulty:** Hard | **Fun:** A-
 
-* [VIP Pass](#gardevoirexfeatvippass)
-* [No VIP Pass](#gardevoirexnovippass)
+* [VIP Pass](#gardevoir-ex-feat-vip-pass)
+* [No VIP Pass](#gardevoir-ex-no-vip-pass)
 
 ## Gardevoir ex (feat. VIP Pass)
 
@@ -11,7 +11,7 @@
 
 ![decklist](../../!Images/Standard/8BST-PAR/Gardevoir%20ex%20VIPs.png)
 
-[top](#gardevoirex)
+[top](#gardevoir-ex)
 
 ### List
 * 1 Manaphy CRZ-GG 6
@@ -48,7 +48,7 @@
 
 ![decklist](../../!Images/Standard/8BST-PAR/Gardevoir%20ex%20No%20VIPs.png)
 
-[top](#gardevoirex)
+[top](#gardevoir-ex)
 
 ### List
 * 1 Ralts SIT 67
