@@ -2,7 +2,7 @@
 
 > **Competitiveness:** B | **Difficulty:** Moderate | **Fun:** B+
 
-* [Standard list](#roaring-moon-ex)
+* [Standard list](#roaring-moon-ex-1)
 * [feat. Galarian Moltres V](#roaring-moonmoltres)
 * [feat. Water Energy](#roaring-moon-ex-feat-water-energy)
 
