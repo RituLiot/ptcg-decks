@@ -3,7 +3,7 @@
 > **Competitiveness:** B | **Difficulty:** Moderate | **Fun:** B+
 
 * [Standard list](#roaring-moon-ex-1)
-* [feat. Galarian Moltres V](#roaring-moonmoltres)
+* [feat. Galarian Moltres V](#feat-galarian-moltres-v)
 * [feat. Moonlight Shuriken](#feat-moonlight-shuriken)
 
 ## Roaring Moon ex
@@ -36,7 +36,7 @@
 * 1 Boss's Orders RCL 189
 * 10 Basic {D} Energy SVE 7
 
-## Roaring Moon/Moltres
+## feat. Galarian Moltres V
 
 > **Source**: Spo0oN - [1st Place Sunny's Weekly #128](https://play.limitlesstcg.com/tournament/65406461d7692a05c4643768/player/spo0on/decklist)
 
