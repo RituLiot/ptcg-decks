@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** B+ | **Difficulty:**  | **Fun:** 
 
-![decklist](../../!Images/Standard/8BST-PAR/Rapid%20Strike%20Urshifu-Inteleon.md.png)
+![decklist](../../!Images/Standard/8BST-PAR/Rapid%20Strike%20Urshifu-Inteleon.png)
 
 ## List
 * 2 Rapid Strike Urshifu V BST 87
