@@ -1,10 +1,10 @@
-# Chariard/Pidgeot
+# Charizard/Pidgeot
 
 > **Source**: Erin Kingma - [2nd Place Regional Gdańsk](https://limitlesstcg.com/decks/list/9210)
 > 
 > **Competitiveness:** A | **Difficulty:** Hard | **Fun:** B+
 
-![decklist](../../!Images/Standard/8BST-PAR/Chariard-Pidgeot.png)
+![decklist](../../!Images/Standard/8BST-PAR/Charizard-Pidgeot.png)
 
 ## List
 * 2 Charmander MEW 4
