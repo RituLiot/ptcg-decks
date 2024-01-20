@@ -4,7 +4,7 @@
 
 * [Standard list](#roaring-moon-ex-1)
 * [feat. Galarian Moltres V](#roaring-moonmoltres)
-* [feat. Water Energy](#roaring-moon-ex-feat-water-energy)
+* [feat. Moonlight Shuriken](#feat-moonlight-shuriken)
 
 ## Roaring Moon ex
 
@@ -71,7 +71,7 @@
 * 4 Earthen Vessel PAR 163
 * 11 Basic {D} Energy Energy 24
 
-## Roaring Moon ex (feat. Water Energy)
+## feat. Moonlight Shuriken
 
 > **Source**: PokeBaughn - N/A
 
