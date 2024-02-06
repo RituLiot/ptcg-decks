@@ -8,6 +8,7 @@
 ## Primal Turbo
 
 ![decklist](../../!Images/GLC/1CRZ/Colorless%20Archeops.PNG)
+[top](#colorless)
 
 ## Make 'Em Pay
 
