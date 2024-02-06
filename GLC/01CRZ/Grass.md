@@ -1,6 +1,6 @@
 # Grass
 
-* [Rillaboom & Venusaur](#rillaboom-venusaur)
+* [Rillaboom & Venusaur](#rillaboom-&-venusaur)
 * [Elusive Feather](#elusive-feather)
 * [Tank and Heal](#tank-and-heal)
 * [Control](#control)
