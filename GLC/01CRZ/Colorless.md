@@ -1,5 +1,10 @@
 # Colorless
 
+* [Primal Turbo](#primal-turbo)
+* [Make 'Em Pay](#make-em-pay)
+* [Control](#control)
+* [Tank Stall](#tank-stall)
+
 ## Primal Turbo
 
 ![decklist](../../!Images/GLC/1CRZ/Colorless%20Archeops.PNG)
