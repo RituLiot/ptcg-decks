@@ -5,7 +5,7 @@
 ![decklist](../../!Images/Live%20Expanded/2SUM-PAR/Tsareena-Inteleon.PNG)
 
 ## Thoughts
-I originally wanted to combine PAR and PAF into a single format, but the *Scoop Up Net* ban is an important one because it heavily cripples the *Shady Dealings* line to the point where it might be unplayable.
+*Scoop Up Net* ban is an important one because it heavily cripples the *Shady Dealings* line to the point where it might be unplayable.
 
 On that note, the deck is fine. Even with a more refined list, you're only good against *VMax*es and Stage 2 *ex*s, as *Tsareena* herself requires a lot of deck space, so you can't add too many techs. Oh well.
 
