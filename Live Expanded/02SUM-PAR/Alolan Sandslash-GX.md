@@ -5,7 +5,7 @@
 ![decklist](../../!Images/Live%20Expanded/2SUM-PAR/Alolan%20Sandslash-GX.PNG)
 
 ## Thoughts
-Utilizing almost unplayable *GX*s in a power leveled down format is a cool sounding project. *Spiky Storm* is an interesting attack, but with no good damage counter placements (*Castform* sucks badly) it's unplayable. I do like the usage of *Misty & Lorelei* though.
+Utilizing almost unplayable *GX*s in a power leveled down format is a cool-sounding project. *Spiky Storm* is an interesting attack, but with no good damage counter placements (*Castform* sucks badly), it's unplayable. I do like the usage of *Misty & Lorelei* though.
 
 ## List
 * 1 Manaphy CRZ-GG 6
