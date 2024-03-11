@@ -5,7 +5,7 @@
 ![decklist](../../!Images/Live%20Expanded/2SUM-PAR/Crobat-Weezing.PNG)
 
 ## Thoughts
-Damage output is too low. *Crobat* only deals 90 damage and replaces *Weezing*'s 4x-poison, and *Max Cutter* ain't too hot either. This could maybe go in control 
+Damage output is too low. *Crobat* only deals 90 damage and replaces *Weezing*'s 4x-poison, and *Max Cutter* ain't too hot either. This could maybe go in control direction, but as is, it's not very good.
 
 ## List
 * 4 Galarian Weezing SHF 150
