@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** B | **Difficulty:** Hard | **Fun:** B
 
-![decklist](../../!Images/Standard/09BST-PAF/LZB%20Dialga.PNG)
+![decklist](../../!Images/Standard/09BST-PAF/LZB%20Dialga.png)
 
 ## List
 * 2 Origin Forme Dialga VSTAR ASR 114
