@@ -1,4 +1,4 @@
-# Arceus/Fire Box
+# Arceus/Armarouge
 
 ![decklist](../../!Images/Standard/6BST-OBF/Arceus-Fire%20Box.PNG)
 
