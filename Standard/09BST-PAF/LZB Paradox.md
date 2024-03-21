@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:**  | **Difficulty:** Hard | **Fun:** A
 
-![decklist](../../!Images/Standard/8BST-PAR/.png)
+![decklist](../../!Images/Standard/09BST-PAR/LZB%20Paradox.png)
 
 ## List
 * 4 Comfey LOR 79
