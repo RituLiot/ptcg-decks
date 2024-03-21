@@ -1,4 +1,4 @@
-# Zorobox
+# Phantom Transformation Zoroark
 
 ![decklist](../../!Images/Standard/5BST-PAL/Zoroark%20Box.PNG)
 
