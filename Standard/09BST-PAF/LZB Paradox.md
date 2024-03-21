@@ -2,7 +2,7 @@
 
 > **Source**: Magnus Pedersen - [6th Place Regional Liverpool](https://limitlesstcg.com/decks/list/9959)
 > 
-> **Competitiveness:**  | **Difficulty:** Hard | **Fun:** A
+> **Competitiveness:** A- | **Difficulty:** Hard | **Fun:** A
 
 ![decklist](../../!Images/Standard/09BST-PAF/LZB%20Paradox.png)
 
