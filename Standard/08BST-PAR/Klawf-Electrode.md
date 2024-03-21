@@ -1,4 +1,4 @@
-# Klawf/Electrode
+# Klawf/Hisuian Electrode
 
 > **Source**: Ian Fukuda - N/A
 > 
