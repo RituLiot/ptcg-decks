@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** A | **Difficulty:** Hard | **Fun:** A
 
-![decklist](../../!Images/Standard/09BST-PAR/Pidgeot%20Control.PNG)
+![decklist](../../!Images/Standard/09BST-PAF/Pidgeot%20Control.PNG)
 
 ## List
 * 2 Pidgey MEW 16
