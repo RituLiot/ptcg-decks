@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** B | **Difficulty:** Hard | **Fun:** B+
 
-![decklist](../../!Images/Standard/09BST-PAF/Mewtwo%20V-Union/Xatu.PNG)
+![decklist](../../!Images/Standard/09BST-PAF/Mewtwo%20V-Union-Xatu.PNG)
 
 ## List
 * 1 Mewtwo V-UNION PR-SW 159
