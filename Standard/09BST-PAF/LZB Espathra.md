@@ -2,7 +2,7 @@
 
 > **Source**: JoshHatter - [Twitter post](https://twitter.com/JoshHatter/status/1756519613402128415)
 > 
-> **Competitiveness:** C- | **Difficulty:** Hard | **Fun:** A-
+> **Competitiveness:** C | **Difficulty:** Hard | **Fun:** A-
 
 ![decklist](../../!Images/Standard/09BST-PAF/LZB%20Espathra.PNG)
 
