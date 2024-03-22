@@ -2,7 +2,7 @@
 
 > **Source**: 窓 - [Top 4 宝島　可児店岐阜](https://players.pokemon-card.com/event/detail/262841/result)
 > 
-> **Competitiveness:** D+ | **Difficulty:** Hard | **Fun:** A
+> **Competitiveness:** D | **Difficulty:** Hard | **Fun:** A
 
 ![decklist](../../!Images/Standard/09BST-PAF/Banette-Spidops.PNG)
 
