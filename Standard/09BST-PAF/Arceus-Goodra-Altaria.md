@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** D | **Difficulty:** Medium | **Fun:** B-
 
-![decklist](../../!Images/Standard/09BST-PAF/Arceus-Goodra-Altaria.PNG)
+![decklist](../../!Images/Standard/09BST-PAF/Arceus-Goodra-Altaria.png)
 
 ## List
 * 1 Bidoof CRZ-GG 29
