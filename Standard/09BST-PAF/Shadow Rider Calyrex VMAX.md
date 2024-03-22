@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** D | **Difficulty:** Medium | **Fun:** B
 
-![decklist](../../!Images/Standard/09BST-PAF/Shadow%20Rider%20Calyrex%20VMAX.md.PNG)
+![decklist](../../!Images/Standard/09BST-PAF/Shadow%20Rider%20Calyrex%20VMAX.PNG)
 
 ## List
 * 1 Espeon VMAX EVS 65
