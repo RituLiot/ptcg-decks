@@ -4,7 +4,7 @@
 > 
 > **Competitiveness:** B | **Difficulty:** Medium | **Fun:** A-
 
-![decklist](../../!Images/Standard/09BST-PAF/Lugia-Archeops%20Vessel.PNG)
+![decklist](../../!Images/Standard/09BST-PAF/Lugia-Archeops%20Vessel.png)
 
 ## List
 * 4 Archeops SIT 147
