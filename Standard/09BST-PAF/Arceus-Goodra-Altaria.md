@@ -17,7 +17,7 @@
 * 3 Swablu CRZ-GG 27
 * 2 Altaria ex PAR 140
 * 3 Hisuian Goodra VSTAR LOR 136
-* 1 Counter Catcher PAR 160 PH
+* 1 Counter Catcher PAR 160
 * 2 Escape Rope BUS 163
 * 2 Iono PAL 254
 * 1 Switch CRZ 144
