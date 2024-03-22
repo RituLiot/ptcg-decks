@@ -9,7 +9,7 @@
 
 > **Source**: Eric Smith - [Rare Candy video](https://www.youtube.com/watch?v=LkMVcQiFGJs)
 
-![decklist](../../!Images/Standard/09BST-PAF/Garchomp-Lucario.png)
+![decklist](../../!Images/Standard/09BST-PAF/Garchomp-Lucario.PNG)
 
 [top](#garchomplucario)
 
