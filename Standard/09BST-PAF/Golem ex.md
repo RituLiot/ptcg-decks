@@ -2,7 +2,7 @@
 
 > **Source**: Shubhan - TrickyGym Discord server
 > 
-> **Competitiveness:** D+ | **Difficulty:** Moderate | **Fun:** A
+> **Competitiveness:** C- | **Difficulty:** Moderate | **Fun:** A
 
 ![decklist](../../!Images/Standard/09BST-PAF/Golem%20ex.PNG)
 
