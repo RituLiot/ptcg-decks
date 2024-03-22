@@ -12,10 +12,9 @@
 * 1 Jirachi PAR 126
 * 3 Arceus VSTAR BRS 123
 * 3 Arceus V BRS 122
-* 1 Altaria ex PAR 232
 * 3 Hisuian Goodra V LOR 135
 * 3 Swablu CRZ-GG 27
-* 2 Altaria ex PAR 140
+* 3 Altaria ex PAR 140
 * 3 Hisuian Goodra VSTAR LOR 136
 * 1 Counter Catcher PAR 160
 * 2 Escape Rope BUS 163
