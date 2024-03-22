@@ -2,7 +2,7 @@
 
 > **Source**: Hirobatto - [Gym Battle Winner](https://www.pokemon-card.com/deck/result.html/deckID/dFfk5V-XDQ1IQ-kkVkkk/)
 > 
-> **Competitiveness:** D | **Difficulty:** Moderate | **Fun:** A+
+> **Competitiveness:** D+ | **Difficulty:** Moderate | **Fun:** A+
 
 ![decklist](../../!Images/Standard/09BST-PAF/Aegislash%20ex.PNG)
 
