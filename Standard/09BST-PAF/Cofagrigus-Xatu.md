@@ -2,7 +2,7 @@
 
 > **Source**: xxNico - [3rd Place Pokémon Battle Park](https://play.limitlesstcg.com/tournament/657f8b239d9cfe6271ae1b2f/player/xxnico/decklist)
 > 
-> **Competitiveness:**  | **Difficulty:**  | **Fun:** 
+> **Competitiveness:** D+ | **Difficulty:** Moderate | **Fun:** B
 
 ![decklist](../../!Images/Standard/09BST-PAF/Cofagrigus-Xatu.PNG)
 
