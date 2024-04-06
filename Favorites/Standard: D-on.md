@@ -5,7 +5,7 @@ I can't say too much about how good this format was since I just started playing
 * [LOR: Lunatone/Solrock](#lunatonesolrock-the-first-one)
 * [SIT: Eternatus/Weezing](#eternatusgalarian-weezing-pure-evil)
 * [SIT: Regis](#regis-crushing-power)
-* [CRZ: LZB with Amazing Rares](#lost-zone-box-with-amazing-rares-skill-diff)
+* [CRZ: LZB/Amazing Rares](#lost-zone-box-with-amazing-rares-skill-diff)
 
 # Lunatone/Solrock: The First One
 
