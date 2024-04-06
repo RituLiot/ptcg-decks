@@ -13,22 +13,22 @@ I can't say too much about how good this format was since I just started playing
 
 Lorem Ipsum
 
-[top](#standard-don)
+[top](#standard-d-on)
 
 # Eternatus/Galarian Weezing: Pure Evil
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Eternatus-Weezing.png)
 
-[top](#standard-don)
+[top](#standard-d-on)
 
 # Regis: Crushing Power
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Regis.png)
 
-[top](#standard-don)
+[top](#standard-d-on)
 
 # Lost Zone Box with Amazing Rares: Skill Diff
 
 ![decklist](../!Images/Standard/3SWSH-CRZ/Lost%20Zone%20Amazing%20Rares.PNG)
 
-[top](#standard-don)
+[top](#standard-d-on)
