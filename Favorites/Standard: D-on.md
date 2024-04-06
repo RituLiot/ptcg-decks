@@ -11,7 +11,7 @@ I can't say too much about how good this format was since I just started playing
 
 ![decklist](../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
 
-Lorem Ipsum
+This was my first competitive deck ever built. It's cheap, it can one-shot stuff, and 
 
 [top](#standard-d-on)
 
