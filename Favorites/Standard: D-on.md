@@ -5,17 +5,17 @@
 
 # Lunatone/Solrock
 
-![decklist](../../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
+![decklist](../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
 
 # Eternatus/Galarian Weezing
 
-![decklist](../../!Images/Standard/2SWSH-SIT/Eternatus-Weezing.png)
+![decklist](../!Images/Standard/2SWSH-SIT/Eternatus-Weezing.png)
 
 # Regis
 
-![decklist](../../!Images/Standard/2SWSH-SIT/Regis.png)
+![decklist](../!Images/Standard/2SWSH-SIT/Regis.png)
 
 # Lost Zone Box: Amazing Rares
 
-![decklist](../../!Images/Standard/3SWSH-CRZ/Lost%20Zone%20Amazing%20Rares.PNG)
+![decklist](../!Images/Standard/3SWSH-CRZ/Lost%20Zone%20Amazing%20Rares.PNG)
 
