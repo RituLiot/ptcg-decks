@@ -2,10 +2,10 @@
 
 I can't say too much about how good this format was since I just started playing. It was disheartening to see Lugia take top spots at some regionals, but so good to see diverse metagames in others. Coming from other TCGs, seeing such variety in decks filled me with hope that this game could be the best TCG on the market, and I haven't been disappointed since.
 
-* [Lunatone/Solrock](#lunatonesolrock-the-first-one)
-* [Eternatus/Weezing](#eternatusgalarian-weezing-pure-evil)
-* [Regis](#regis-crushing-power)
-* [LZB: Amazing Rares](#lost-zone-box-with-amazing-rares-skill-diff)
+* [LOR: Lunatone/Solrock](#lunatonesolrock-the-first-one)
+* [SIT: Eternatus/Weezing](#eternatusgalarian-weezing-pure-evil)
+* [SIT: Regis](#regis-crushing-power)
+* [CRZ: LZB with Amazing Rares](#lost-zone-box-with-amazing-rares-skill-diff)
 
 # Lunatone/Solrock: The First One
 
