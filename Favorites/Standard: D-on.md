@@ -35,4 +35,6 @@ This is, in a sense, is a more competitive version of Solrock - trade one prize 
 
 ![decklist](../!Images/Standard/3SWSH-CRZ/Lost%20Zone%20Amazing%20Rares.PNG)
 
+The pinnacle of skill expression in D-on era. You've got just enough resources to take all six prizes; you've just got to play your cards right. Easier said than done: game state changes after every Flower Selecting, after every card opponent plays. It might not be apparent you've made a mistake right away, only at the end of the game, when you check your lost zone to see that one metal energy you needed for victory... But when you do your math right and deliver Amazing Burst for 320 damage, winning the game... One of the best feelings I've had playing this game. Algebraic!
+
 [top](#standard-d-on)
