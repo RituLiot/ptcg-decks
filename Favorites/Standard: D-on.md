@@ -19,11 +19,15 @@ This was my first competitive-ish deck ever. Cheap to build and powerful enough 
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Eternatus-Weezing.png)
 
+This deck is probably my favorite from whole D-on era. It showed me another aspect of this game that I deeply love: making opponent cry. Galarian Weezing is a stupid card, but just stupid enough to be fun to play both with and against. And while you're slowly melting away opponent's hopes and dreams, you get enough time to build your board and string Dread Ends for massive damage. Very cool.
+
 [top](#standard-d-on)
 
 # Regis: Crushing Power
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Regis.png)
+
+This is, in a sense, is a more competitive version of Solrock - trade one prize for multiple, with two exceptions. Firstly, you can't be oneshot by other single prizers, and secondly, you're trading blows with opponents in a far more varied and diverse way. When you're of equal skill with your opponent, it feels like games come down to the wire; every decision matters, and there are so many of them. I'm sad to see those guys gone.
 
 [top](#standard-d-on)
 
