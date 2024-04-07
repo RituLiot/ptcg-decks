@@ -11,7 +11,7 @@ I can't say too much about how good this format was since I just started playing
 
 ![decklist](../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
 
-This was my first competitive deck ever built. It's cheap, it can one-shot stuff, and 
+This was my first competitive-ish deck ever. Cheap to build and powerful enough to oneshot even VMaxes — what's more to love? The fact that you can win against players with better decks, but worse skill. I made up plans on the fly, built prize maps, learned sequencing, and capitalized on opponent's mistakes. This was in great contrast to all the other tcgs I've played. So this deck holds a special place in my heart — not the most fun in the grand scheme of things, but probably the most important one.
 
 [top](#standard-d-on)
 
