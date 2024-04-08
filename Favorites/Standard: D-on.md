@@ -7,7 +7,7 @@ I can't say too much about how good this format was since I just started playing
 * [SIT: Regis](#regis-crushing-power)
 * [CRZ: LZB/Amazing Rares](#lost-zone-box-with-amazing-rares-skill-diff)
 
-## Lunatone/Solrock: The First One
+## [Lunatone/Solrock](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/01SWSH-LOR/Lunatone-Solrock.md): The First One
 
 ![decklist](../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
 
