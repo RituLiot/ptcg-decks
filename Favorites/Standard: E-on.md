@@ -36,10 +36,14 @@ Classic lost zone goodness with a focus on staying alive. Goodra unfortunately n
 
 ![decklist](../!Images/Standard/8BST-PAR/Rapid%20Strike%20Urshifu-Inteleon.png)
 
+This one is for the bad boys. It feels like cheating dealing hundreds of damage to the bench, while also having huge 300hp VMaxes in play, that just won't go down. TM Devolution and Turo's Scenario improved this deck so much, covering your weakest spots of opponent's 300hp mons. Unique gameplay, difficult decisions, showy extra turns - this feels really good to play.
+
 [top](#standard-e-on)
 
 ## [Iron Valiant Box](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/09BST-PAF/Iron%20Valiant%20Box.md): Unconventional Lines
 
 ![decklist](../!Images/Standard/09BST-PAF/Iron%20Valiant%20Box.PNG)
+
+This is a perfect rogue deck 
 
 [top](#standard-e-on)
