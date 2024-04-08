@@ -23,7 +23,7 @@ This deck is probably my favorite from whole D-on era. It showed me another aspe
 
 [top](#standard-d-on)
 
-## Regis: Crushing Power
+## [Regis](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/02SWSH-SIT/Regis.md): Crushing Power
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Regis.png)
 
@@ -31,7 +31,7 @@ This is, in a sense, is a more competitive version of Solrock - trade one prize 
 
 [top](#standard-d-on)
 
-## Lost Zone Box with Amazing Rares: Skill Diff
+## [Lost Zone Box with Amazing Rares](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/03SWSH-CRZ/LZB%20Amazing%20Rares.md): Skill Diff
 
 ![decklist](../!Images/Standard/3SWSH-CRZ/Lost%20Zone%20Amazing%20Rares.PNG)
 
