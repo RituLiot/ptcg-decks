@@ -44,6 +44,6 @@ This one is for the bad boys. It feels like cheating dealing hundreds of damage 
 
 ![decklist](../!Images/Standard/09BST-PAF/Iron%20Valiant%20Box.PNG)
 
-This is a perfect rogue deck: you calculate lines you've never calculated before, and opponent scratches their head for what your next move could be. It's also really fast, potentially taking six prizes off of Toy Catched-Echoing Horned Pidgeys in just three turns! This list also plays underutilized cards, making it the coolest one from the whole E-on era.
+This is a perfect rogue deck: you calculate lines you've never calculated before, and opponent scratches their head for what your next move could be. It's also really fast, potentially taking six prizes off of Toy Catched-Echoing Horned Pidgeys in just three turns! This list also plays underutilized cards, making it one of the coolest from the whole E-on era.
 
 [top](#standard-e-on)
