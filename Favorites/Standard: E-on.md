@@ -4,7 +4,7 @@
 * [PAL: Mew/Genesect](#fusion-strike-mewgenesect-improvise-adapt-overcome)
 * [MEW: LZB/Goodra](#lost-zone-box-goodra-vstar-unbreakable)
 * [PAR: Urshifu/Inteleon](#rapid-strike-urshifuinteleon-spreading-love)
-* [PAF: Iron Valiant Box](#iron-valiant-box-unconvetional-lines)
+* [PAF: Iron Valiant Box](#iron-valiant-box-unconventional-lines)
 
 ## [Miraidon/Flaaffy](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/04BST-SVI/Miraidon-Flaaffy.md): Versatility Incarnate
 
@@ -30,7 +30,7 @@
 
 [top](#standard-e-on)
 
-## [Iron Valiant Box](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/09BST-PAF/Iron%20Valiant%20Box.md): Unconvetional Lines
+## [Iron Valiant Box](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/09BST-PAF/Iron%20Valiant%20Box.md): Unconventional Lines
 
 ![decklist](../!Images/Standard/09BST-PAF/Iron%20Valiant%20Box.PNG)
 
