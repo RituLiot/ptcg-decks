@@ -18,7 +18,7 @@ Miraidon is probably my most played archetype across all E-on era; however, this
 
 ![decklist](../!Images/Standard/5BST-PAL/Mew-Genesect%20Fusion.png)
 
-*Why won't you die?* Mew is a fun deck to play and master, but it's also fun to adapt to meta
+*Why won't you die?* Mew is a fun deck to play and master, but it's also fun seeing how it adapts to meta. The introduction of PAL Spiritomb forced Mew to add previously unplayable Eiscue, which opened up new lines of play against multiple different decks. In other variations across the E-on era, Mew played Luxray V, Accelgor, even four copies of Lost Vacuum! Thomas Highway would be proud.
 
 [top](#standard-e-on)
 
