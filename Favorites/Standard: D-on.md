@@ -7,7 +7,7 @@ I can't say too much about how good this format was since I just started playing
 * [SIT: Regis](#regis-crushing-power)
 * [CRZ: LZB/Amazing Rares](#lost-zone-box-with-amazing-rares-skill-diff)
 
-# Lunatone/Solrock: The First One
+## Lunatone/Solrock: The First One
 
 ![decklist](../!Images/Standard/1SWSH-LOR/Lunatone-Solrock.png)
 
@@ -15,7 +15,7 @@ This was my first competitive-ish deck ever. Cheap to build and powerful enough 
 
 [top](#standard-d-on)
 
-# Eternatus/Galarian Weezing: Pure Evil
+## Eternatus/Galarian Weezing: Pure Evil
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Eternatus-Weezing.png)
 
@@ -23,7 +23,7 @@ This deck is probably my favorite from whole D-on era. It showed me another aspe
 
 [top](#standard-d-on)
 
-# Regis: Crushing Power
+## Regis: Crushing Power
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Regis.png)
 
@@ -31,7 +31,7 @@ This is, in a sense, is a more competitive version of Solrock - trade one prize 
 
 [top](#standard-d-on)
 
-# Lost Zone Box with Amazing Rares: Skill Diff
+## Lost Zone Box with Amazing Rares: Skill Diff
 
 ![decklist](../!Images/Standard/3SWSH-CRZ/Lost%20Zone%20Amazing%20Rares.PNG)
 
