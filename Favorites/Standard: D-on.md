@@ -15,7 +15,7 @@ This was my first competitive-ish deck ever. Cheap to build and powerful enough 
 
 [top](#standard-d-on)
 
-## Eternatus/Galarian Weezing: Pure Evil
+## [Eternatus/Galarian Weezing](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/02SWSH-SIT/Eternatus-Weezing.md): Pure Evil
 
 ![decklist](../!Images/Standard/2SWSH-SIT/Eternatus-Weezing.png)
 
