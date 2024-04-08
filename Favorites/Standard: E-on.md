@@ -10,11 +10,15 @@
 
 ![decklist](../!Images/Standard/4BST-SVI/Miraidon-Flaaffy.png)
 
+Miraidon is probably my most played archetype across all E-on era; however, this version is my favorite, because it perfectly encapsulates what Miraidon decks should be about - getting relevant resources for each matchup. It does this by utilizing three different VStar powers - and choosing the correct one can often determine the outcome of the game. I never got good at this particular build.
+
 [top](#standard-e-on)
 
 ## [Fusion Strike Mew/Genesect](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/05BST-PAL/Mew-Genesect%20Fusion.md): Improvise, Adapt, Overcome
 
 ![decklist](../!Images/Standard/5BST-PAL/Mew-Genesect%20Fusion.png)
+
+*Why won't you die?* Mew is a fun deck to play and master, but it's also fun to adapt to meta
 
 [top](#standard-e-on)
 
