@@ -12,7 +12,7 @@ This format was defined by engines and ways to utilize them with different attac
 
 ![decklist](../!Images/Standard/4BST-SVI/Miraidon-Flaaffy.png)
 
-Miraidon is probably my most played archetype across all E-on era; however, this version is my favorite, because it perfectly encapsulates what Miraidon decks should be about - getting relevant resources for each matchup. It does this by utilizing three different VStar powers - and choosing the correct one can often determine the outcome of the game. I never got good at this particular build.
+Miraidon is probably my most played archetype across all E-on era; however, this version is my favorite because it perfectly encapsulates what Miraidon decks should be about — getting relevant resources for each matchup. It does this by utilizing three different VStar powers, and choosing the correct one can often determine the outcome of the game. I never got good at this particular build.
 
 [top](#standard-e-on)
 
@@ -20,7 +20,7 @@ Miraidon is probably my most played archetype across all E-on era; however, this
 
 ![decklist](../!Images/Standard/5BST-PAL/Mew-Genesect%20Fusion.png)
 
-*Why won't you die?* Mew is a fun deck to play and master, but it's also fun seeing how it adapts to meta. The introduction of PAL Spiritomb forced Mew to add previously unplayable Eiscue, which opened up new lines of play against multiple different decks. In other variations across the E-on era, Mew played Luxray V, Accelgor, even four copies of Lost Vacuum! Thomas Highway would be proud.
+*Why won't you die?* Mew is a fun deck to play and master, but it's also fun seeing how it adapts to meta. The introduction of PAL Spiritomb forced Mew to add previously unplayable Eiscue, which opened up new lines of play against multiple different decks. In other variations across the E-on era, Mew played Luxray V, Accelgor, and even four copies of Lost Vacuum! Thomas Highway would be proud.
 
 [top](#standard-e-on)
 
@@ -28,7 +28,7 @@ Miraidon is probably my most played archetype across all E-on era; however, this
 
 ![decklist](../!Images/Standard/7BST-MEW/LZB%20Goodra.png)
 
-Classic lost zone goodness with a focus on staying alive. Goodra unfortunately never found its footing in E-on era, but it did have good matchups against decks that have a damage cap, and if you setup fast enough - opponent could only do so much. Add miscalleneous attackers, and you've got yourself a deck that's missing the top spot by ju-u-ust a smidge.
+Classic lost zone goodness with a focus on staying alive. Goodra unfortunately never found its footing in the E-on era, but it did have good matchups against decks that have a damage cap, and if you setup fast enough, opponent could only do so much. Add miscalleneous attackers, and you've got yourself a deck that's missing the top spot by ju-u-ust a smidge.
 
 [top](#standard-e-on)
 
@@ -36,7 +36,7 @@ Classic lost zone goodness with a focus on staying alive. Goodra unfortunately n
 
 ![decklist](../!Images/Standard/8BST-PAR/Rapid%20Strike%20Urshifu-Inteleon.png)
 
-This one is for the bad boys. It feels like cheating dealing hundreds of damage to the bench, while also having huge 300hp VMaxes in play, that just won't go down. TM Devolution and Turo's Scenario improved this deck so much, covering your weakest spots of opponent's 300hp mons. Unique gameplay, difficult decisions, showy extra turns - this feels really good to play.
+This one is for the bad boys. It feels like cheating dealing hundreds of damage to the bench while also having huge 300hp VMaxes in play that just won't go down. TM Devolution and Turo's Scenario improved this deck so much, covering your weakest spots of opponent's 300hp mons. Unique gameplay, difficult decisions, showy extra turns — this feels really good to play.
 
 [top](#standard-e-on)
 
@@ -44,6 +44,6 @@ This one is for the bad boys. It feels like cheating dealing hundreds of damage 
 
 ![decklist](../!Images/Standard/09BST-PAF/Iron%20Valiant%20Box.PNG)
 
-This is a perfect rogue deck 
+This is a perfect rogue deck: you calculate lines you've never calculated before, and opponent scratches their head for what your next move could be. It's also really fast, potentially taking six prizes off of Toy Catched-Echoing Horned Pidgeys in just three turns! This list also plays underutilized cards, making it the coolest one from the whole E-on era.
 
 [top](#standard-e-on)
