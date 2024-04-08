@@ -1,5 +1,7 @@
 # Standard: E-on
 
+This format was defined by engines and ways to utilize them with different attackers and utility pieces. Pidgeot, Bibarel, Arceus, Kirlia - you name it. This provided a unique challenge for deckbuilders to find the best engine for a shiny new attacker. While not exactly a typical ptcg format, E-on era was great - challenging and fun to play with diverse meta and new decks and improvements almost every tournament. 
+
 * [SVI: Miraidon/Flaaffy](#miraidonflaaffy-versatility-incarnate)
 * [PAL: Mew/Genesect](#fusion-strike-mewgenesect-improvise-adapt-overcome)
 * [MEW: LZB/Goodra](#lost-zone-box-goodra-vstar-unbreakable)
@@ -25,6 +27,8 @@ Miraidon is probably my most played archetype across all E-on era; however, this
 ## [Lost Zone Box: Goodra VStar](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/07BST-MEW/LZB%20Goodra.md): Unbreakable
 
 ![decklist](../!Images/Standard/7BST-MEW/LZB%20Goodra.png)
+
+Classic lost zone goodness with a focus on staying alive. Goodra unfortunately never found its footing in E-on era, but it did have good matchups against decks that have a damage cap, and if you setup fast enough - opponent could only do so much. Add miscalleneous attackers, and you've got yourself a deck that's missing the top spot by ju-u-ust a smidge.
 
 [top](#standard-e-on)
 
