@@ -1,6 +1,6 @@
 # Ting-Lu ex
 
-Tier **5** | Difficulty: **Moderate** | Gameplan: **Disruption**
+Tier **F** | Difficulty: **Moderate** | Gameplan: **Disruption**
 
 **Source**: ForTheWinTCG - [YouTube video](https://www.youtube.com/watch?v=HtBQUCstlw0)
 
