@@ -14,9 +14,10 @@
 - Midrange: Ensures to get to a specific board state every turn, starting from second. Strongest in the middle game.
 - Accumulate: Gets stronger as the game goes on with slow and steady board improvements. Usually gives up 1-2 prizes in the early game.
   - Spread: Version of accumulate that spreads damage counters over the course of the game and can ko several pokemon in a turn.
-- Disruption/Control: Limits opponent's playing options.
-- Mill: Wins by actively milling opponent every turn.
-- Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
+- Control: Wins by making the game unplayable for the opponent.
+  - Disruption: Limits opponent's playing options.
+  - Mill: Wins by actively milling opponent every turn.
+  - Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
 
 ## Difficulty
 - Easy: Can be picked up and played close to efficient without too much thought.
