@@ -1,6 +1,6 @@
 # Entei/Tera Skeledirge
 
-Tier **5** | Difficulty: **Moderate** | Gameplan: **Midrange**
+Tier **5** | Difficulty: **Hard** | Gameplan: **Midrange**
 
 **Source**: 南無阿弥陀仏 - [Terrace Battle Winner](https://twitter.com/laughteria_TCG/status/1756323649555210512)
 
