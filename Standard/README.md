@@ -19,6 +19,7 @@
   - Disruption: Limits opponent's playing options.
   - Mill: Wins by actively milling opponent every turn.
   - Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
+- Toolbox: Utilizes a variety of attackers fitting specific situations.
 
 ## Difficulty
 - Easy: Can be picked up and played close to efficient without too much thought.
