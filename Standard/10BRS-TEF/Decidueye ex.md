@@ -1,6 +1,6 @@
 # Decidueye ex
 
-Tier **4** | Difficulty: **Hard** | Gameplan: **Accumulate**
+Tier **4** | Difficulty: **Hard** | Gameplan: **Tank and Heal**
 
 **Source**: Oscar Madsen - [Twitter post](https://twitter.com/StecherCro/status/1765763525773873356)
 
