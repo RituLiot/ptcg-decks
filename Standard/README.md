@@ -16,7 +16,7 @@
 - Control: Usually wins by deckout. Can utilize a combination of gameplans below:
   - Disruption: Limits opponent's playing options.
   - Mill: Wins by actively milling opponents every turn.
-  - Stall: Wastes time by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
+  - Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
 
 ## Difficulty
 - Easy: Can be picked up and played close to efficient without too much thought.
