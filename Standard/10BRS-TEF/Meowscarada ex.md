@@ -1,6 +1,6 @@
 # Meowscarada ex
 
-Tier **3** | Difficulty: **Moderate+** | Gameplan: **Accumulate**
+Tier **3** | Difficulty: **Moderate+** | Gameplan: **Spread**
 
 **Source**: Thomas Slater - [Top 32 Perth Regionals](https://limitlesstcg.com/decks/list/10895)
 
