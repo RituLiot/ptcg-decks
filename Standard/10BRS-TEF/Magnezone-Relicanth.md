@@ -1,6 +1,6 @@
 # Magnezone/Relicanth
 
-Tier **4** | Difficulty: **Extreme** | Gameplan: **Disruption**
+Tier **4** | Difficulty: **Extreme** | Gameplan: **Control**
 
 **Source**: omochikun - [3rd Place Texas TCG Throwdown Thursdays #4](https://play.limitlesstcg.com/tournament/6614578ebd59c305cfa833ac/player/omochikun/decklist)
 
