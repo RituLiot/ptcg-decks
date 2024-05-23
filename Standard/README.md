@@ -1,4 +1,33 @@
 # Criteria
+
+## Competitiveness
+- Tier 0: BDIF, absolutely dominating over the course of the meta.
+- Tier 1: One of the best decks in the format, can easily win a tournament.
+- Tier 2: Appears in Top 64 or higher. Unlikely to win a tournament, but still can given the right circumstances.
+- Tier 3: Appeared in day 2 of a Regional/IC/Worlds at least once.
+- Tier 4: Fully functional deck that is missing some of the speed/consistency/versatility of the top decks. Can enter the top competition if the right support cards are printed.
+- Tier 5: Semifunctional deck. Either the idea is barely salvagable, the power level is low or its gameplan is incosistent. Can win games on a sunny day.
+- Tier F: Unplayable.
+
+## Gameplan
+- Aggro: Attacks turn 1 and pressures from there. Strong early game, weak late game.
+- Midrange: Ensures to get to a specific board state every turn, starting from second. Strongest in the middle game.
+- Accumulate: Gets stronger as the game goes on with slow and steady board improvements. Usually gives up 1-2 prizes in the early game.
+- Control: Usually wins by deckout. Can a combination of gameplans below:
+  - Disruption: Limits opponent's playing options.
+  - Mill: Wins by actively milling opponents every turn.
+  - Stall: Wastes time by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
+
+## Difficulty
+- Easy: Can be picked up and played close to efficient without too much thought.
+- Moderate: Can be understood generally after 1-2 games, yet there are always options to consider for different situations.
+- Hard: Requires to consider several lines of play every turn.
+- Extreme: Small meaningful optimizations can be found tens of games into playing.
+
+
+# (OLD) Criteria
+FOR E-BLOCK
+
 Decks (or, more broadly, archetypes) are being rated in **competitiveness**, **difficulty** of efficient play and **fun** of play.
 
 ## Competitiveness
