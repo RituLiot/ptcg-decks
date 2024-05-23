@@ -1,6 +1,6 @@
 # Meowscarada/Iron Valiant
 
-Tier **4** | Difficulty: **Hard** | Gameplan: **Accumulate**
+Tier **4** | Difficulty: **Hard** | Gameplan: **Spread**
 
 **Source**: OnGaard - [YouTube video](https://www.youtube.com/watch?v=v25qrRQhCJY)
 
