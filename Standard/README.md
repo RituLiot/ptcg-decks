@@ -13,7 +13,7 @@
 - Aggro: Attacks turn 1 and pressures from there. Strong early game, weak late game.
 - Midrange: Ensures to get to a specific board state every turn, starting from second. Strongest in the middle game.
 - Accumulate: Gets stronger as the game goes on with slow and steady board improvements. Usually gives up 1-2 prizes in the early game.
-- Control: Usually wins by deckout. Can a combination of gameplans below:
+- Control: Usually wins by deckout. Can utilize a combination of gameplans below:
   - Disruption: Limits opponent's playing options.
   - Mill: Wins by actively milling opponents every turn.
   - Stall: Wastes time by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
