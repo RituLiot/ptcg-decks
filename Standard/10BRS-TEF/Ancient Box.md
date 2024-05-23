@@ -1,7 +1,7 @@
 # Ancient Box
 
 * [Standard list](#ancient-box-1)
-* [Feat. Roaring Moon ex](#feat-roaring-moox-ex)
+* [Feat. Roaring Moon ex](#feat-roaring-moon-ex)
 
 ## Ancient Box
 
