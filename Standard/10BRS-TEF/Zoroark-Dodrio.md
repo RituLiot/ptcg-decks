@@ -4,7 +4,7 @@ Tier **3** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
 **Source**: Pramote Koowatanasuchat - [Top 16 Thailand Regional League Vol.3](https://limitlesstcg.com/decks/list/10603)
 
-![decklist](../../!Images/Standard/10BRS-TEF/.png)
+![decklist](../../!Images/Standard/10BRS-TEF/Zoroark-Dodrio.png)
 
 ## List
 * 1 Radiant Alakazam SIT 59
