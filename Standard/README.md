@@ -14,7 +14,7 @@
 - Midrange: Ensures to get to a specific board state every turn, starting from second. Strongest in the middle game.
 - Accumulate: Gets stronger as the game goes on with slow and steady board improvements. Usually gives up 1-2 prizes in the early game.
 - Disruption/Control: Limits opponent's playing options.
-- Mill: Wins by actively milling opponents every turn.
+- Mill: Wins by actively milling opponent every turn.
 - Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
 
 ## Difficulty
