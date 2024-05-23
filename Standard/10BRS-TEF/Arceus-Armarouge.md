@@ -1,6 +1,6 @@
 # Arceus/Armarouge
 
-Tier **2** | **Hard** to play | **Accumulate** gameplan
+Tier **2** | Difficulty: **Hard** | Gameplan: **Accumulate**
 
 **Source**: Julian Gort-barry - [Top 32 EUIC 2024, London](https://limitlesstcg.com/decks/list/10620)
 
