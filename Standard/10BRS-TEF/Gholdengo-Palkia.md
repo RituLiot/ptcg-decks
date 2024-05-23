@@ -1,6 +1,6 @@
 # Gholdengo/Palkia
 
-Tier **2** | Difficulty: **Moderate+** | Gameplan: **Midrange**
+Tier **2** | Difficulty: **Hard** | Gameplan: **Midrange**
 
 **Source**: たかぴー - [Top 8 City League Tōkyō 03/20](https://limitlesstcg.com/decks/list/jp/6443)
 
