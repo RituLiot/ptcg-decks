@@ -1,6 +1,6 @@
 # Blastoise ex
 
-Tier **4** | Difficulty: **Hard** | Gameplan: **Accumulate**
+Tier **4** | Difficulty: **Hard** | Gameplan: **Midrange**
 
 **Source**: がみの - [2nd Place City League Ibaraki 02/12](https://limitlesstcg.com/decks/list/jp/1632)
 
