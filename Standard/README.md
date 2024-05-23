@@ -15,7 +15,7 @@
 - Accumulate: Gets stronger as the game goes on with slow and steady board improvements. Usually gives up 1-2 prizes in the early game.
   - Spread: Spreads damage counters over the course of the game and can ko several pokemon in a turn.
 - Tank and Heal: Tank and heal damage dealt to you and deal damage back to the opponent.
-- Control: Wins by making the game unplayable for the opponent.
+- Control: Wins by making the game unplayable for the opponent. Can utilize several gameplans listed from the list,
   - Disruption: Limits opponent's playing options.
   - Mill: Wins by actively milling opponent every turn.
   - Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
