@@ -1,6 +1,6 @@
 # Espathra/Xatu
 
-Tier **2** | Difficulty: **Moderate+** | Gameplan: **Disruption**
+Tier **2** | Difficulty: **Hard** | Gameplan: **Disruption**
 
 **Source**: Braiden Elfert - [Top 32 EUIC 2024, London](https://limitlesstcg.com/decks/list/10628)
 
