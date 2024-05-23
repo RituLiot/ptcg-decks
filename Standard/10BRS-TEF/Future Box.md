@@ -48,7 +48,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Toolbox**
 
 ## Feat. Iron Moth
 
-Tier **4** | Difficulty: **Moderate** | Gameplan: **Toolbox**
+Tier **5** | Difficulty: **Moderate** | Gameplan: **Toolbox**
 
 **Source**: flamer - [2nd Place Standard Pumpka Weekly Post Rotation](https://play.limitlesstcg.com/tournament/660048b461164605cc78d283/player/flamer/decklist)
 
