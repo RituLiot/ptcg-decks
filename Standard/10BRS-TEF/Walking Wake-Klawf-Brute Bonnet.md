@@ -1,4 +1,4 @@
-# Walking Wake/Brute Bonnet
+# Walking Wake/Klawf/Brute Bonnet
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
