@@ -4,7 +4,7 @@ Tier **1** | Difficulty: **Extreme** | Gameplan: **Aggro Toolbox**
 
 **Source**: Andrew Hedrick - [1st Place NAIC 2024, New Orleans](https://limitlesstcg.com/decks/list/11920)
 
-![decklist](../../!Images/Standard/11BRS-TWM/.png)
+![decklist](../../!Images/Standard/11BRS-TWM/LZB%20Turbo.png)
 
 ## List
 * 4 Comfey CRZ-GG 14
