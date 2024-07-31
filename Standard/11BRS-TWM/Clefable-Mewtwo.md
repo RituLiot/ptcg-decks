@@ -1,6 +1,6 @@
 # Clefable/Mewtwo
 
-Tier **5** | Difficulty: **Moderate** | Gameplan: **Turbo**
+Tier **5** | Difficulty: **Moderate** | Gameplan: **Aggro  Accumulate**
 
 **Source**: Prowlerrs - TrickyGym discord
 
