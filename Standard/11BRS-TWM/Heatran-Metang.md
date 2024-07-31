@@ -4,7 +4,7 @@ Tier **5** | Difficulty: **Easy** | Gameplan: **Midrange**
 
 **Source**: ghumpkin - TrickyGym discord
 
-![decklist](../../!Images/Standard/11BRS-TWM/Heatran-Metang.png)
+![decklist](../../!Images/Standard/11BRS-TWM/Heatran-Metang.PNG)
 
 ## List
 * 4 Metang PR-SV 90
