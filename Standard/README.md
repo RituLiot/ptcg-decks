@@ -25,7 +25,7 @@
 - Easy: Can be picked up and played close to efficient without too much thought.
 - Moderate: Can be understood generally after 1-2 games, yet there are always options to consider for different situations.
 - Hard: Requires to consider several lines of play every turn.
-- Extreme: Small meaningful optimizations can be found tens of games into playing.
+- Extreme: Small, but meaningful optimizations can be found tens of games into playing.
 
 
 # (OLD) Criteria
