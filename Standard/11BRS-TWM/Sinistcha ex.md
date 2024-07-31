@@ -1,6 +1,6 @@
 # Sinistcha ex
 
-Tier **F** | Difficulty: **Moderate** | Gameplan: **Spread**
+Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange Spread**
 
 **Source**: N/A
 
