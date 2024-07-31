@@ -4,7 +4,7 @@ Tier **F** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 
 **Source**: ForTheWinTCG - [YouTube video](www.youtube.com/watch?v=foBwsu_47dA)
 
-![decklist](../../!Images/Standard/11BRS-TWM/.png)
+![decklist](../../!Images/Standard/11BRS-TWM/Lugia-Porygon-Armarouge.png)
 
 ## List
 * 4 Porygon-Z PAR 144
