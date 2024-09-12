@@ -1,6 +1,6 @@
 # Dragapult/Meowscarada
 
-Tier **5** | Difficulty: **Hard** | Gameplan: **Spread**
+Tier **5** | Difficulty: **Hard** | Gameplan: **Accumulate Spread**
 
 **Source**: Sapphire Soul27 - [Twitter post](https://x.com/Sapphire_Soul27/status/1830743386405634453)
 
