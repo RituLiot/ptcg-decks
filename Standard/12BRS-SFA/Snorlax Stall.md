@@ -1,6 +1,6 @@
 # Snorlax Stall
 
-Tier **3** | Difficulty: **Hard** | Gameplan: **Stall**
+Tier **2** | Difficulty: **Hard** | Gameplan: **Stall**
 
 **Source**: Huntiemon - [4th Place ToD: "World" Championship Day One](https://play.limitlesstcg.com/tournament/tod-worlds-1/player/huntiemon/decklist)
 
