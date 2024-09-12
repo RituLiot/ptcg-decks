@@ -4,7 +4,7 @@ This format was defined by engines and ways to utilize them with different attac
 
 * [SVI: Miraidon/Flaaffy](#miraidonflaaffy-versatility-incarnate)
 * [PAL: Mew/Genesect](#fusion-strike-mewgenesect-improvise-adapt-overcome)
-* [MEW: LZB/Goodra](#lost-zone-box-goodra-vstar-unbreakable)
+* [MEW: Kyurem/Baxcalibur](kyurem-baxcalibur)
 * [PAR: Urshifu/Inteleon](#rapid-strike-urshifuinteleon-spreading-love)
 * [PAF: Iron Valiant Box](#iron-valiant-box-unconventional-lines)
 
@@ -24,11 +24,11 @@ Miraidon is probably my most played archetype across all E-on era; however, this
 
 [top](#standard-e-on)
 
-## [Lost Zone Box: Goodra VStar](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/07BST-MEW/LZB%20Goodra.md): Unbreakable
+## [Kyurem/Baxcalibur](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/07BST-MEW/Kyurem-Baxcalibur.md): Almost Meta
 
-![decklist](../!Images/Standard/7BST-MEW/LZB%20Goodra.png)
+![decklist](../!Images/Standard/7BST-MEW/Kyurem-Baxcalibur.png)
 
-Classic lost zone goodness with a focus on staying alive. Goodra unfortunately never found its footing in the E-on era, but it did have good matchups against decks that have a damage cap, and if you setup fast enough, opponent could only do so much. Add miscalleneous attackers, and you've got yourself a deck that's missing the top spot by ju-u-ust a smidge.
+This, I believe, is one of the strongest decks that never actually became meta, solely because of its unpopularity. It feels really similar to Chien-Pao, except you're playing single prizers only. You're more difficult to setup, but that's where extra time and Letter of Encouragement come in handy. I promise you'll have a great time playing this list, give it a try!
 
 [top](#standard-e-on)
 
@@ -44,6 +44,6 @@ This one is for the bad boys. It feels like cheating dealing hundreds of damage 
 
 ![decklist](../!Images/Standard/09BST-PAF/Iron%20Valiant%20Box.PNG)
 
-This is a perfect rogue deck: you calculate lines you've never calculated before, and opponent scratches their head for what your next move could be. It's also really fast, potentially taking six prizes off of Toy Catched-Echoing Horned Pidgeys in just three turns! This list also plays underutilized cards, making it one of the coolest from the whole E-on era.
+This is a perfect rogue deck: you calculate lines you've never calculated before, and opponent scratches their head for what your next move could be. It's also really fast, potentially taking six prizes off of Toy Catched-Echoing Horned Pidgeys in just three turns! This list also plays underutilized cards, making it one of the coolest decks from the whole E-on era.
 
 [top](#standard-e-on)
