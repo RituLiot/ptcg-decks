@@ -21,6 +21,7 @@
   - Stall: Wastes time either by trapping opponent's support pokemon in active or by hiding behind unbreakable pokemon.
 - Combo: Establishes a specific board state and wins solely off of it.
 - Toolbox: Utilizes a variety of attackers fitting specific situations.
+- Turbo: Digs through the deck as fast as possible to achieve a specific board state. preferably on turn 1.
 
 ## Difficulty
 - Easy: Can be picked up and played close to efficient without too much thought.
