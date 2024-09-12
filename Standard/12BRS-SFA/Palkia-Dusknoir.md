@@ -1,6 +1,6 @@
 # Palkia/Dusknoir
 
-Tier **5** | Difficulty: **Hard** | Gameplan: **Midrange Accumulate**
+Tier **5** | Difficulty: **Hard** | Gameplan: **Midrange**
 
 **Source**: Danny House - [Twitter post](https://x.com/HusDanny/status/1832442858663768459)
 
