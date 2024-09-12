@@ -4,7 +4,7 @@ This format was defined by engines and ways to utilize them with different attac
 
 * [SVI: Miraidon/Flaaffy](#miraidonflaaffy-versatility-incarnate)
 * [PAL: Mew/Genesect](#fusion-strike-mewgenesect-improvise-adapt-overcome)
-* [MEW: Kyurem/Baxcalibur](#kyurem-baxcalibur-almost-meta)
+* [MEW: Kyurem/Baxcalibur](#kyurembaxcalibur-almost-meta)
 * [PAR: Urshifu/Inteleon](#rapid-strike-urshifuinteleon-spreading-love)
 * [PAF: Iron Valiant Box](#iron-valiant-box-unconventional-lines)
 
@@ -28,7 +28,7 @@ Miraidon is probably my most played archetype across all E-on era; however, this
 
 ![decklist](../!Images/Standard/7BST-MEW/Kyurem-Baxcalibur.png)
 
-This, I believe, is one of the strongest decks that never actually became meta, solely because of its unpopularity. It feels really similar to Chien-Pao, except you're playing single prizers only. You're more difficult to setup, but that's where extra time and Letter of Encouragement come in handy. I promise you'll have a great time playing this list, give it a try!
+I believe this deck is one of the strongest in the format, and the only reason you've never heard of it is because it was never popularized. List feels really similar to Chien-Pao, except you're playing single prizers only. KOs are more difficult to setup, but that's where the extra time and Letter of Encouragement come in handy. I promise you'll have a great time playing this list; give it a try!
 
 [top](#standard-e-on)
 
