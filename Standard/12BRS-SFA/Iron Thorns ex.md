@@ -1,6 +1,6 @@
 # Iron Thorns ex
 
-Tier **1** | Difficulty: **Moderate** | Gameplan: **Midrange Disruption**
+Tier **1** | Difficulty: **Moderate** | Gameplan: **Disruption**
 
 **Source**: Fernando Cifuentes - [World Champion](https://limitlesstcg.com/decks/list/12238)
 
