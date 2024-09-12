@@ -1,6 +1,6 @@
 # Lost Zone Box: Cursed Blast Dusclops
 
-Tier **F** | Difficulty: **Hard** | Gameplan: **Midrange**
+Tier **F** | Difficulty: **Hard** | Gameplan: **Turbo Combo**
 
 **Source**: Azul Garcia Griego - [YouTube video](https://www.youtube.com/watch?v=zJOxCwuu_yA)
 
