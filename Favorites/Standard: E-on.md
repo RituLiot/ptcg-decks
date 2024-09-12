@@ -4,7 +4,7 @@ This format was defined by engines and ways to utilize them with different attac
 
 * [SVI: Miraidon/Flaaffy](#miraidonflaaffy-versatility-incarnate)
 * [PAL: Mew/Genesect](#fusion-strike-mewgenesect-improvise-adapt-overcome)
-* [MEW: Kyurem/Baxcalibur](kyurem-baxcalibur)
+* [MEW: Kyurem/Baxcalibur](#kyurem-baxcalibur-almost-meta)
 * [PAR: Urshifu/Inteleon](#rapid-strike-urshifuinteleon-spreading-love)
 * [PAF: Iron Valiant Box](#iron-valiant-box-unconventional-lines)
 
