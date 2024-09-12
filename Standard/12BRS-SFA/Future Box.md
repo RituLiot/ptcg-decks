@@ -1,6 +1,6 @@
 # Future Box
 
-Tier **5** | Difficulty: **Moderate** | Gameplan: **Aggro Toolbox**
+Tier **5** | Difficulty: **Moderate** | Gameplan: **Toolbox**
 
 **Source**: こっちゃん - [Top 8 City League Kagawa 05/06](https://limitlesstcg.com/decks/list/jp/11155)
 
