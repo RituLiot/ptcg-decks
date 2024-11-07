@@ -51,7 +51,7 @@ Tier **4** | Difficulty: **Hard** | Gameplan: **Accumulate**
 
 ## Radiant Charizard
 
-Tier **4** | Difficulty: **Medium** | Gameplan: **Accumulate**
+Tier **4** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 
 **Source**: LittleDarkFury - [YouTube video](www.youtube.com/watch?v=p9OWmaRZrm8)
 
