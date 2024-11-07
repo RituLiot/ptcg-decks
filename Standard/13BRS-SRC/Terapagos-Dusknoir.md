@@ -1,6 +1,6 @@
 # Terapagos/Dusknoir
 
-Tier **1** | Difficulty: **Extreme** | Gameplan: **Midrange**
+Tier **1** | Difficulty: **Extreme** | Gameplan: **Midrange Combo**
 
 **Source**: Tord Reklev - [2nd Place Regional Gdańsk](https://limitlesstcg.com/decks/list/13522)
 
