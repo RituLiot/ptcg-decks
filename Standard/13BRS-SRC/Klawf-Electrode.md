@@ -1,6 +1,6 @@
 # Klawf/Electrode
 
-Tier **2** | Difficulty: **Moderate** | Gameplan: **Turbo Combo**
+Tier **2** | Difficulty: **Moderate** | Gameplan: **Aggro Turbo**
 
 **Source**: Alejandro Luciano Eijo - [3rd Place Regional Joinville](https://limitlesstcg.com/decks/list/12922)
 
