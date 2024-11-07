@@ -49,7 +49,7 @@ Tier **1** | Difficulty: **Hard** | Gameplan: **Accumulate**
 
 ## PokéStop
 
-Tier **3** | Difficulty: **Medium** | Gameplan: **Turbo**
+Tier **3** | Difficulty: **Moderate** | Gameplan: **Turbo**
 
 **Source**: Andrew Mahone - TrickyGym discord
 
