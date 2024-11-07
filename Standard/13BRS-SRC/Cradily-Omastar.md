@@ -1,6 +1,6 @@
 # Cradily/Omastar
 
-Tier **F** | Difficulty: **Medium** | Gameplan: **Midrange**
+Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
 **Source**: TrustYourPilot Pokemon - [YouTube video](www.youtube.com/watch?v=Gjh170_pem4)
 
