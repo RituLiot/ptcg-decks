@@ -1,4 +1,4 @@
-# Lapras/Dialga
+# Dialga/Lapras
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Combo**
 
