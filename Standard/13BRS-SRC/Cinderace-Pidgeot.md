@@ -1,7 +1,7 @@
 # Cinderace/Pidgeot
 
-* [Cursed Blast Dusknoir](#)
-* [Radiant Charizard](#)
+* [Cursed Blast Dusknoir](#cursed-blast-dusknoir)
+* [Radiant Charizard](#radiant-charizard)
 
 ## Cursed Blast Dusknoir
 
