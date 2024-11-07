@@ -1,6 +1,6 @@
 # Banette/Gardevoir
 
-Tier **2** | Difficulty: **Extreme** | Gameplan: **Disruption**
+Tier **1** | Difficulty: **Extreme** | Gameplan: **Disruption**
 
 **Source**: Mateusz Łaszkiewicz - [Top 16 Regional Dortmund](https://limitlesstcg.com/decks/list/12981)
 
