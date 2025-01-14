@@ -3,7 +3,7 @@
 * [Walls](#walls)
 * [Poison](#poison)
 
-## Flygon Walls
+## Walls
 
 Tier **5** | Difficulty: **Moderate** | Gameplan: **Hit and Run Disruption**
 
