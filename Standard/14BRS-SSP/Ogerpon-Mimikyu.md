@@ -5,7 +5,7 @@
 
 ## Sparkling Crystal
 
-Tier **3** | Difficulty: **Hard** | Gameplan: ** Turbo Stall**
+Tier **3** | Difficulty: **Hard** | Gameplan: **Turbo Stall**
 
 **Source**: Joshua Frink - [Top 128 Regional Sacramento, CA](https://limitlesstcg.com/decks/list/14248)
 
