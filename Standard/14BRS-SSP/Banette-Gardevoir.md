@@ -1,6 +1,6 @@
 # Banette/Gardevoir
 
-Tier **2** | Difficulty: **Extreme** | Gameplan: **Disruption**
+Tier **2** | Difficulty: **Extreme** | Gameplan: **Disruption Accumulate**
 
 **Source**: Pablo Figueroa - [Top 64 Regional Toronto](https://limitlesstcg.com/decks/list/14932)
 
