@@ -11,7 +11,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Turbo Stall**
 
 ![decklist](../../!Images/Standard/14BRS-SSP/Ogerpon-Mimikyu.PNG)
 
-[top](#ogerpon-mimikyu)
+[top](#ogerponmimikyu)
 
 ## List
 * 1 Rotom V LOR 177
@@ -54,7 +54,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Stall**
 
 ![decklist](../../!Images/Standard/14BRS-SSP/Wall%20Stall.PNG)
 
-[top](#ogerpon-mimikyu)
+[top](#ogerponmimikyu)
 
 ## List
 * 1 Diancie SCR 86
