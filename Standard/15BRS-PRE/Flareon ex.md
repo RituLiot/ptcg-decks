@@ -2,7 +2,7 @@
 
 * [Leafeon ex](#leafeon-ex)
 * [Linear Attack Jolteon](#linear-attack-jolteon)
-* [Espeon ex](#espeon ex)
+* [Espeon ex](#espeon-ex)
 
 ## Leafeon ex
 
