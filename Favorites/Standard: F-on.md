@@ -18,7 +18,7 @@ This deck presses a lot of buttons for me—it's a toolbox, it promotes two hit-
 
 ![decklist](../!Images/Standard/11BRS-TWM/Regidrago-Ogerpon.png)
 
-I believe *Kyurem*'s release was a mistake that moved *Regidrago VSTAR* into the broken status it was known for in ***SFA*** meta, hence why I'm including this version instead. And this version is so cool! *Regidrago* is a banger of a design that promotes unique deckbuilding decisions, similar to *Phantom Transformation Zoroark* from before. And energy acceleration from *Teal Mask Ogerpon ex* is such a fair and fun way to make this deck function. I'm honestly enamored by how this deck came to be, even if it pushed the power level too far.
+I believe *Kyurem*'s release was a mistake that moved *Regidrago VSTAR* into the broken status it was known for in ***SFA*** meta, hence why I'm including this version instead. And this version is so cool! *Regidrago* is a banger of a design that promotes unique deckbuilding decisions, similar to *Phantom Transformation Zoroark* from before. And energy acceleration from *Teal Mask Ogerpon ex* is such a fair and fun way to make this deck function. I'm honestly enamored by how this deck came to be, even if it pushed the power level too far later down the line.
 
 ## [Palkia/Dusknoir](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/13BRS-SRC/Palkia-Dusknoir.md): Speed Demon
 
