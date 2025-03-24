@@ -4,7 +4,7 @@ Tier **F** | Difficulty: **Moderate** | Gameplan: **Toolbox**
 
 **Source**: ghumpkin - TrickyGym discord
 
-![decklist](../../!Images/Standard/14BRS-SSP/Grass%20box.png)
+![decklist](../../!Images/Standard/15BRS-PRE/Grass%20box.png)
 
 ## List
 * 1 Wyrdeer V ASR 134
