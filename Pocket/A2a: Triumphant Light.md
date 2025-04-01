@@ -16,26 +16,26 @@
 
 ![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/Golem-Druddigon.png)
 
-# 
+# Lake Trio
 
-**Power:**  tier
+**Power:** Middle tier
 
-![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/.png)
+![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/Lake%20Trio.png)
 
-# 
+# Leafeon/Celebi
 
-**Power:**  tier
+**Power:** Low tier
 
-![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/.png)
+![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/Leafeon-Celebi.png)
 
-# 
+# Skarmory/Magnezone
 
-**Power:**  tier
+**Power:** Low tier
 
-![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/.png)
+![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/Skarmory-Magnezone.png)
 
-# 
+# Snorlax/Magnezone
 
-**Power:**  tier
+**Power:** Low tier
 
-![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/.png)
+![decklist](../!Images/Pocket/A2a:%20Triumphant%20Light/Snorlax-Magnezone.png)
