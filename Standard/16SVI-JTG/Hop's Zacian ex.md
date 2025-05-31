@@ -1,11 +1,11 @@
 # Hop's Zacian ex
 
-* [Adrena-Brain Munkidori](#munkidori)
+* [Adrena-Brain Munkidori](#adrenabrain-munkidori)
 * [Iron Valiant ex](#iron-valiant-ex)
 * [Archaludon ex](#archaludon)
 * [Dragapult ex](#dragapult-ex)
 
-## Munkidori
+## Adrena-Brain Munkidori
 
 Tier **3** | Difficulty: **Moderate** | Gameplan: **Aggro Spread**
 
