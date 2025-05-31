@@ -1,9 +1,9 @@
 # Blissey/Munkidori
 
-* [Cornerstone Mask Ogerpon ex](#ogerpon-ex)
-* [Billowing Heat Wave Centiskorch](#centiskorch)
+* [Cornerstone Mask Ogerpon ex](#cornerstone-mask-ogerpon-ex)
+* [Billowing Heat Wave Centiskorch](#billowing-heat-wave-centiskorch)
 
-## Ogerpon ex
+## Cornerstone Mask Ogerpon Ogerpon ex
 
 Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 
@@ -11,7 +11,7 @@ Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 
 ![decklist](../../!Images/Standard/16SVI-JTG/Blissey-Munkidori.png)
 
-[top](#blissey-munkidori)
+[top](#blisseymunkidori)
 
 ## List
 * 1 Cornerstone Mask Ogerpon ex PRE 160
@@ -39,7 +39,7 @@ Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 * 2 Basic {F} Energy SVE 6
 * 1 Basic {P} Energy SVE 5
 
-## Centiskorch
+## Billowing Heat Wave Centiskorch
 
 Tier **3** | Difficulty: **Hard** | Gameplan: **Tank and Heal**
 
@@ -47,7 +47,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Tank and Heal**
 
 ![decklist](../../!Images/Standard/16SVI-JTG/Blissey-Munkidori-Centiskorch.png)
 
-[top](#blissey-munkidori)
+[top](#blisseymunkidori)
 
 ## List
 * 2 Sizzlipede TEF 36
