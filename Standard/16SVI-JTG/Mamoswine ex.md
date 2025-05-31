@@ -2,7 +2,7 @@
 
 * [Blaziken ex](#blaziken-ex)
 * [Quaquaval](#quaquaval)
-* [Energizing Rock Salt Garganacl](#garganacl)
+* [Energizing Rock Salt Garganacl](#energizing-rock-salt-garganacl)
 
 ## Mamoswine/Blaziken
 
@@ -10,7 +10,7 @@ Tier **3** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 
 **Source**: すすむ@ - [Top 8 City League Tōkyō 03/26](https://limitlesstcg.com/decks/list/jp/34815)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Mamoswine-Blaziken.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Mamoswine-Blaziken.png)
 
 [top](#mamoswine-ex)
 
@@ -49,7 +49,7 @@ Tier **5** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 
 **Source**: きんぎょ - [Top 16 City League Hyōgo 02/01](https://limitlesstcg.com/decks/list/jp/28192)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Mamoswine-Quaquaval.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Mamoswine-Quaquaval.png)
 
 [top](#mamoswine-ex)
 
@@ -81,13 +81,13 @@ Tier **5** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 * 1 Basic {W} Energy Energy 47
 * 7 Basic {F} Energy Energy 23
 
-## Garganacl
+## Energizing Rock Salt Garganacl
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 
 **Source**: リバー - [1st Place City League Shizuoka 02/09](https://limitlesstcg.com/decks/list/jp/29864)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Mamoswine-Garganacl.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Mamoswine-Garganacl.png)
 
 [top](#mamoswine-ex)
 
