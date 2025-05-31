@@ -4,7 +4,7 @@
 * [Quaquaval](#quaquaval)
 * [Energizing Rock Salt Garganacl](#energizing-rock-salt-garganacl)
 
-## Mamoswine/Blaziken
+## Blaziken ex
 
 Tier **3** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 
