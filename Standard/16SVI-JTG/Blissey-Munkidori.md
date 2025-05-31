@@ -3,7 +3,7 @@
 * [Cornerstone Mask Ogerpon ex](#cornerstone-mask-ogerpon-ex)
 * [Billowing Heat Wave Centiskorch](#billowing-heat-wave-centiskorch)
 
-## Cornerstone Mask Ogerpon Ogerpon ex
+## Cornerstone Mask Ogerpon ex
 
 Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 
