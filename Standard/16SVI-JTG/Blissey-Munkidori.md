@@ -5,7 +5,7 @@
 
 ## Cornerstone Mask Ogerpon ex
 
-Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
+Tier **2** | Difficulty: **Hard** | Gameplan: **Tank and Heal**
 
 **Source**: Fernando Cifuentes - [2nd Place Regional Monterrey](https://limitlesstcg.com/decks/list/17098)
 
