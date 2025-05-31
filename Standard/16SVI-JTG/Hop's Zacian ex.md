@@ -13,7 +13,7 @@ Tier **3** | Difficulty: **Moderate** | Gameplan: **Aggro Spread**
 
 ![decklist](../../!Images/Standard/16SVI-JTG/Hop%27s%20Zacian-Munkidori.png)
 
-[top](#hop's-zacian-ex)
+[top](#hops-zacian-ex)
 
 ## List
 * 1 Bloodmoon Ursaluna ex PRE 168
@@ -53,7 +53,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Aggro Spread**
 
 ![decklist](../../!Images/Standard/16SVI-JTG/Hop%27s%20Zacian-Iron%20Valiant.png)
 
-[top](#hop's-zacian-ex)
+[top](#hops-zacian-ex)
 
 ## List
 * 1 Bloodmoon Ursaluna ex PRE 168
@@ -88,7 +88,7 @@ Tier **4** | Difficulty: **Moderate** | Gameplan: **Aggro Midrange**
 
 ![decklist](../../!Images/Standard/16SVI-JTG/Hop%27s%20Zacian-Archaludon.png)
 
-[top](#hop's-zacian-ex)
+[top](#hops-zacian-ex)
 
 ## List
 * 2 Hop's Snorlax JTG 117
@@ -121,7 +121,7 @@ Tier **4** | Difficulty: **Hard** | Gameplan: **Aggro Accumulate**
 
 ![decklist](../../!Images/Standard/16SVI-JTG/Dragapult-Hop%27s%20Zacian.png)
 
-[top](#hop's-zacian-ex)
+[top](#hops-zacian-ex)
 
 ## List
 * 2 Hop's Snorlax JTG 117
