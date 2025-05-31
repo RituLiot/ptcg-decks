@@ -9,9 +9,9 @@ Tier **4** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
 **Source**: AzulGG - [YouTube video](https://www.youtube.com/watch?v=Afye-arZvoQ)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Iono%27s%20Bellibolt%20ex.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Iono%27s%20Bellibolt%20ex.png)
 
-[top](#iono's-bellibolt-ex)
+[top](#ionos-bellibolt-ex)
 
 ## List
 * 2 Iono's Bellibolt ex JTG 183
@@ -44,9 +44,9 @@ Tier **5** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
 **Source**: あまとり - [2nd Place City League Shizuoka 02/08](https://limitlesstcg.com/decks/list/jp/29086)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Iono%27s%20Bellibolt-Raging%20Bolt.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Iono%27s%20Bellibolt-Raging%20Bolt.png)
 
-[top](#iono's-bellibolt-ex)
+[top](#ionos-bellibolt-ex)
 
 ## List
 * 3 Iono's Wattrel JTG 54
