@@ -1,6 +1,6 @@
 # Hop's Zacian ex
 
-* [Adrena-Brain Munkidori](#adrenabrain-munkidori)
+* [Adrena-Brain Munkidori](#adrena-brain-munkidori)
 * [Iron Valiant ex](#iron-valiant-ex)
 * [Archaludon ex](#archaludon)
 * [Dragapult ex](#dragapult-ex)
