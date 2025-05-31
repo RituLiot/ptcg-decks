@@ -9,7 +9,7 @@ Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 
 **Source**: Fernando Cifuentes - [2nd Place Regional Monterrey](https://limitlesstcg.com/decks/list/17098)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Blissey-Munkidori.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Blissey-Munkidori.png)
 
 [top](#blissey-munkidori)
 
@@ -45,7 +45,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Tank and Heal**
 
 **Source**: Julian Luvara - [Top 64 Regional Melbourne](https://limitlesstcg.com/decks/list/17715)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Blissey-Munkidori-Centiskorch.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Blissey-Munkidori-Centiskorch.png)
 
 [top](#blissey-munkidori)
 
