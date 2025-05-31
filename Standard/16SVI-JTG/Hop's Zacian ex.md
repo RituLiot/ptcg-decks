@@ -2,7 +2,7 @@
 
 * [Adrena-Brain Munkidori](#adrena-brain-munkidori)
 * [Iron Valiant ex](#iron-valiant-ex)
-* [Archaludon ex](#archaludon)
+* [Archaludon ex](#archaludon-ex)
 * [Dragapult ex](#dragapult-ex)
 
 ## Adrena-Brain Munkidori
