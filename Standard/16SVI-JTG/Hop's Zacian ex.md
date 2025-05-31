@@ -11,7 +11,7 @@ Tier **3** | Difficulty: **Moderate** | Gameplan: **Aggro Spread**
 
 **Source**: Sean Ware - [Day 2 Regional Atlanta, GA](https://limitlesstcg.com/decks/list/17042)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Hop%27s%20Zacian-Munkidori.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Hop%27s%20Zacian-Munkidori.png)
 
 [top](#hop's-zacian-ex)
 
@@ -51,7 +51,7 @@ Tier **3** | Difficulty: **Hard** | Gameplan: **Aggro Spread**
 
 **Source**: ヤナギラス - [1st Place City League Kanagawa 03/23](https://limitlesstcg.com/decks/list/jp/34573)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Hop%27s%20Zacian-Iron%20Valiant.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Hop%27s%20Zacian-Iron%20Valiant.png)
 
 [top](#hop's-zacian-ex)
 
@@ -86,7 +86,7 @@ Tier **4** | Difficulty: **Moderate** | Gameplan: **Aggro Midrange**
 
 **Source**: ヅカ - [1st Place City League Gunma 02/02](https://limitlesstcg.com/decks/list/jp/28767)
 
-![decklist](../../!Images/Standard/15BRS-PRE/Hop%27s%20Zacian-Archaludon.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Hop%27s%20Zacian-Archaludon.png)
 
 [top](#hop's-zacian-ex)
 
@@ -119,7 +119,7 @@ Tier **4** | Difficulty: **Hard** | Gameplan: **Aggro Accumulate**
 
 **Source**: froggger28 - TrickyGym discord
 
-![decklist](../../!Images/Standard/15BRS-PRE/Dragapult-Hop%27s%20Zacian.png)
+![decklist](../../!Images/Standard/16SVI-JTG/Dragapult-Hop%27s%20Zacian.png)
 
 [top](#hop's-zacian-ex)
 
