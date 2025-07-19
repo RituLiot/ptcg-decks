@@ -1,6 +1,6 @@
 # Lost March
 
-**Competitiveness:** F | **Author:** Codezito | **Source:** (PokemonCard.io)[https://pokemoncard.io/deck/lost-march-129210]
+**Competitiveness:** F | **Author:** Codezito | **Source:** [PokemonCard.io](https://pokemoncard.io/deck/lost-march-129210)
 
 ![decklist](../../!Images/Live%20Expanded/3SUM-DRI/Lost%20March.png)
 
