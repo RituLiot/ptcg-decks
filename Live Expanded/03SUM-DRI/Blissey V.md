@@ -1,6 +1,6 @@
 # Blissey V
 
-**Competitiveness:** B | **Author:** Sadie | **Source:** The Silent Lab server
+**Competitiveness:** B | **Author:** Sadie | **Source:** *The Silent Lab* Discord server
 
 ![decklist](../../!Images/Live%20Expanded/3SUM-DRI/Blissey%20V.png)
 
