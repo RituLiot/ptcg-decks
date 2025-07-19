@@ -5,7 +5,7 @@
 ![decklist](../../!Images/Live%20Expanded/3SUM-DRI/Iron%20Thorns-Archeops.png)
 
 ## Thoughts
-Worse Dragon *Lugia*/*Archeops* is still an *Archeops* deck, right? While I do see the idea and the merit behind this deck, and I experienced firsthand that it works, I'm still under the impression that it really shouldn't. What if you start with a pokemon not named *Iron Thorns* in the active? What if you miss on *Guzma & Hala* or *Research Lab* for several turns? What if you can't find a specific attacker when you need it? This deck's consistence is due to the good deckbuilder behind it, but otherwise it's close to a mess.
+Worse Dragon *Lugia*/*Archeops* is still an *Archeops* deck, right? While I do see the idea and the merit behind this deck, and I experienced firsthand that it works, I'm still under the impression that it really shouldn't. What if you start with a pokemon not named *Iron Thorns* in the active? What if you miss *Guzma & Hala* and *Research Lab* for several turns? What if you can't find a specific attacker when you need it? This deck's consistence is due to the good deckbuilder behind it, but otherwise it's close to a mess.
 
 ## List
 * 1 Koraidon ex TEF 120
