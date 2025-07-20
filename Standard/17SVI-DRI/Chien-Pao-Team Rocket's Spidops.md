@@ -1,4 +1,4 @@
-# Chien/Pao/Team Rocket's Spidops
+# Chien-Pao/Team Rocket's Spidops
 
 Tier **5** | Difficulty: **Moderate** | Gameplan: **Midrange Breaker**
 
