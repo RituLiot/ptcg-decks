@@ -16,6 +16,7 @@
 - Midrange: Ensures to get to a specific board state every turn, starting from second. Strongest in the middle game.
 - Accumulate: Gets stronger as the game goes on with slow and steady board improvements. Usually gives up 1-2 prizes in the early game.
   - Spread: Spreads damage counters over the course of the game and can ko several pokemon in a turn.
+- Breaker: Consistently one-shot your opponent.
 - Tank and Heal: Tank and heal damage dealt to you and deal damage back to the opponent.
 - Control: Wins by making the game unplayable for the opponent. Can utilize other gameplans.
   - Disruption: Limits opponent's playing options.
