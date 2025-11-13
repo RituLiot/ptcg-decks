@@ -31,5 +31,4 @@ Tier **3** | Difficulty: **Moderate** | Gameplan: **Accumulate**
 * 4 Hilda WHT 164
 * 2 Nest Ball SVI 255
 * 1 Enriching Energy SSP 191
-
 * 4 Basic {P} Energy SVE 21
