@@ -1,4 +1,4 @@
-# Mega Latias/Ethan's Ho/oh
+# Mega Latias/Ethan's Ho-oh
 
 Tier **4** | Difficulty: **Moderate** | Gameplan: **Aggro Midrange**
 
@@ -32,4 +32,5 @@ Tier **4** | Difficulty: **Moderate** | Gameplan: **Aggro Midrange**
 * 2 Switch MEW 206
 * 4 Nest Ball SVI 255
 * 6 Basic {R} Energy SVE 18
+
 * 3 Basic {P} Energy SVE 21
