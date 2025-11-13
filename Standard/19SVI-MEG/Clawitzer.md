@@ -1,4 +1,4 @@
-# Clawitzer
+# Aqua Launcher Clawitzer
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
@@ -28,4 +28,5 @@ Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange**
 * 1 Prime Catcher TEF 157
 * 1 Brave Bangle WHT 80
 * 2 Iono PAL 254
+
 * 8 Basic Water Energy SVE 3
