@@ -1,4 +1,4 @@
-# Gardevoir ex
+# Gardevoir/Jellicent
 
 Tier **1** | Difficulty: **Hard** | Gameplan: **Accumulate**
 
@@ -32,3 +32,4 @@ Tier **1** | Difficulty: **Hard** | Gameplan: **Accumulate**
 * 2 Earthen Vessel PAR 163
 * 7 Basic {P} Energy SVE 21
 * 4 Basic {D} Energy SVE 23
+
