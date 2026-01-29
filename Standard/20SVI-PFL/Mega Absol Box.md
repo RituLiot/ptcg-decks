@@ -1,6 +1,6 @@
 # Mega Absol Box
 
-Tier **1** | Difficulty: **Extreme** | Gameplan: **Toolbox**
+Tier **2** | Difficulty: **Extreme** | Gameplan: **Toolbox**
 
 **Source**: Sanjay Sundararajan - [Top 32 Regional Toronto](https://limitlesstcg.com/decks/list/22771)
 
@@ -35,4 +35,5 @@ Tier **1** | Difficulty: **Extreme** | Gameplan: **Toolbox**
 * 1 Energy Switch MEG 115
 * 2 Earthen Vessel PAR 163
 * 8 Basic {D} Energy MEE 7
+
 * 2 Mist Energy TEF 161
