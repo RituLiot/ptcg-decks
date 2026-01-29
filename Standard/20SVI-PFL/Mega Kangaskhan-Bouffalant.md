@@ -1,6 +1,6 @@
 # Mega Kangaskhan/Bouffalant
 
-Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
+Tier **3** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 
 **Source**: Noah Mertes - [Top 32 Regional Stuttgart](https://limitlesstcg.com/decks/list/22032)
 
@@ -32,4 +32,5 @@ Tier **2** | Difficulty: **Moderate** | Gameplan: **Tank and Heal**
 * 2 Jet Energy PAL 190
 * 3 Basic {P} Energy MEE 5
 * 4 Basic {D} Energy MEE 7
+
 * 3 Basic {F} Energy MEE 6
