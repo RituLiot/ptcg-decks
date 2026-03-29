@@ -2,7 +2,7 @@
 
 Tier **5** | Difficulty: **Easy** | Gameplan: **Midrange**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/pyySS3-Q1tkQp-yEXSpM/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/pyySS3-Q1tkQp-yEXSpM/)
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Mega%20Hawlucha-Rocks.png)
 
