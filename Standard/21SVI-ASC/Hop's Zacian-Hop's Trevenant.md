@@ -2,7 +2,7 @@
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Aggro**
 
-**Source**: Omega - [TrickyGym discord server](nan)
+**Source**: Omega - TrickyGym discord server
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Hop%27s%20Zacian-Hop%27s%20Trevenant.png)
 
