@@ -2,7 +2,7 @@
 
 Tier **4** | Difficulty: **Moderate** | Gameplan: **Midrange Accumulate**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/ggL6gL-BlJrbB-9nNn96/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/ggL6gL-BlJrbB-9nNn96/)
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Mega%20Gardevoir-Xatu.png)
 
