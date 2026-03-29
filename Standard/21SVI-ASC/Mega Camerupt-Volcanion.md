@@ -2,7 +2,7 @@
 
 Tier **4** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/kfvk1F-rNklXL-fkFV1d/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/kfvk1F-rNklXL-fkFV1d/)
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Mega%20Camerupt-Volcanion.png)
 
