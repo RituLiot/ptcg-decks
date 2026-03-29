@@ -2,7 +2,7 @@
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/M3MXyp-V5DVBE-y2SSyS/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/M3MXyp-V5DVBE-y2SSyS/)
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Larry%27s%20Dudunsparce-Rocks.png)
 
