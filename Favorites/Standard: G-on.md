@@ -2,9 +2,9 @@
 
 This rotation was disappointing. Trainer's Pokemon were a failure of a mechanic and brought viable 1.5 decks to the table - and other ones, while semi-fun to play, were not deep or well designed due to a simple lack of cards when half of them were pack fillers already. I tried hard to use *Arven's Mabostiff ex*, *Misty's Gyarados*, *Iono's Bellibolt ex*, and literally every trainer, but to no avail. Mega Pokemon could be interesting, and there are some good designs, but they only brought one good deck to meta - Mega Absol box. Overall, I-block cards were powercrept by G-block cards, and the meta was ruled by the Big Four - *Gardevoir ex*, *Charizard ex*, *Gholdengo ex*, and *Dragapult ex* - it got very tiresome to see them over, and over, and over again. Unfortunately, upcoming cards don't seem to be very powerful as well...
 
-* [DRI: Steven's Metagross/Lillie's Clefairy](#stevensmetagross-lillies-clefairy-inconsistent-variety)
-* [BBWF: Gardevoir/Jellicent](#gardevoir-jellicent-stall-and-destroy)
-* [ASC: Mega Meganium/Ogerpon](#mega-meganium-ogerpon-soothing-beatstick)
+* [DRI: Steven's Metagross/Lillie's Clefairy](#stevens-metagrosslillies-clefairy-inconsistent-variety)
+* [BBWF: Gardevoir/Jellicent](#gardevoirjellicent-stall-and-destroy)
+* [ASC: Mega Meganium/Ogerpon](#mega-meganiumogerpon-soothing-beatstick)
 
 ## [Steven's Metagross/Lillie's Clefairy](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/17SVI-DRI/Steven's%20Metagross-Lillie's%20Clefairy.md): Inconsistent Variety
 
@@ -18,7 +18,7 @@ I thought this deck was tournament worthy - up until I tried to use it in an act
 
 Now this is my type of deck! You annoy the hell out of your opponent with *Jellicent ex*, then unleash a barrage of different toolbox attacks powered by *Gardevoir ex*. It was novel at the time, giving a completely new look on an existing archetype, with a different speed of play and brand-new decisions of when to stop stalling and start destroying!
 
-## [Mega Meganium-Ogerpon](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/21SVI-ASC/Mega%20Meganium-Ogerpon.md): Soothing Beatstick
+## [Mega Meganium/Ogerpon](https://github.com/RituLiot/ptcg-decks/blob/main/Standard/21SVI-ASC/Mega%20Meganium-Ogerpon.md): Soothing Beatstick
 
 ![decklist](../!Images/Standard/21SVI-ASC/Mega%20Meganium-Ogerpon.png)
 
