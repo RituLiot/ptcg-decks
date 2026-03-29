@@ -2,7 +2,7 @@
 
 Tier **4** | Difficulty: **Moderate** | Gameplan: **Breaker**
 
-**Source**: ian6595 - [TrickyGym discord server](nan)
+**Source**: ian6595 - TrickyGym discord server
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Ethan%27s%20Magcargo.png)
 
