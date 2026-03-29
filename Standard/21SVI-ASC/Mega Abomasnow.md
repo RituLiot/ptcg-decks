@@ -2,7 +2,7 @@
 
 Tier **4** | Difficulty: **Easy** | Gameplan: **Breaker Midrange**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/g9HQgQ-OVWGiE-ngig9g/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/g9HQgQ-OVWGiE-ngig9g/)
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Mega%20Abomasnow.png)
 
