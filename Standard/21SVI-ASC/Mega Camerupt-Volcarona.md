@@ -2,7 +2,7 @@
 
 Tier **5** | Difficulty: **Hard** | Gameplan: **Midrange**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/V1ddvv-Sy0XHR-fkFvkf/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/V1ddvv-Sy0XHR-fkFvkf/)
 
 ![decklist](../../!Images/Standard/21SVI-ASC/Mega%20Camerupt-Volcarona.png)
 
