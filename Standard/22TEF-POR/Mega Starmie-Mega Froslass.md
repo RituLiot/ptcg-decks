@@ -1,6 +1,6 @@
 # Mega Starmie/Mega Froslass
 
-Tier **2** | Difficulty: **Moderate** | Gameplan: **Midrange**
+Tier **2** | Difficulty: **Moderate** | Gameplan: **Midrange Spread**
 
 **Source**: Lorenzo Zanchi - [Top 32 Regional Prague](https://limitlesstcg.com/decks/list/26270)
 
