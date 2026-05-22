@@ -2,7 +2,7 @@
 
 Tier **F** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
-**Source**: nan - [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/G8Y4xc-o8xTz7-GcYDxc/)
+**Source**: [PokecaBook](https://www.pokemon-card.com/deck/result.html/deckID/G8Y4xc-o8xTz7-GcYDxc/)
 
 ![decklist](../../!Images/Standard/22TEF-POR/Mega%20Zygarde-Barbaracle.png)
 
