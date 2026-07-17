@@ -1,7 +1,7 @@
 # Seek Inspiration Slowking
 
-*[Secret Box](#secret-box)
-*[Darkbox](#darkbox)
+* [Secret Box](#secret-box)
+* [Darkbox](#darkbox)
 
 ## Secret Box
 
