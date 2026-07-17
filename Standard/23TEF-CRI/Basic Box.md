@@ -1,7 +1,7 @@
 # Basic Box
 
-*[No Teal Mask Ogerpon](#no-teal-mask-ogerpon)
-*[Teal Mask Ogerpon](#teal-mask-ogerpon)
+* [No Teal Mask Ogerpon](#no-teal-mask-ogerpon)
+* [Teal Mask Ogerpon](#teal-mask-ogerpon)
 
 ## No Teal Mask Ogerpon
 
