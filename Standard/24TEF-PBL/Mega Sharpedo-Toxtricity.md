@@ -1,4 +1,4 @@
-# Mega Sharpedo Toxtricity
+# Mega Sharpedo/Toxtricity
 
 Tier **3** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
