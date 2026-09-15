@@ -1,4 +1,4 @@
-# Ethan's Magcargo and Ho/oh
+# Ethan's Magcargo/Ethan's Ho-oh
 
 Tier **4** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
