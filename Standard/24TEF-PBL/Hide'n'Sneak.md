@@ -1,17 +1,15 @@
 # Hide'n'Sneak
 
-*[Spiritual End Spiritomb](#spiritual-end-spiritomb)
-*[Lillie's Clefairy ex](#lillies-clefairy-ex)
+* [Spiritual End Spiritomb](#spiritual-end-spiritomb)
+* [Lillie's Clefairy ex](#lillies-clefairy-ex)
 
-## Spiritual End Spiritomb
+## [Spiritual End Spiritomb](#hidensneak)
 
 Tier **3** | Difficulty: **Extreme** | Gameplan: **Midrange Accumulate**
 
 **Source**: APackOfAlpacas - [Pitch Black Legal - Last Prize Series #9](https://play.limitlesstcg.com/tournament/6a5e8d4b937230b102d40671/player/apackofalpacas/decklist)
 
 ![decklist](../../!Images/Standard/24TEF-PBL/Hide%27n%27Sneak%20with%20Spiritomb.png)
-
-[top](#hidensneak)
 
 ## List
 * 1 Lillie's Clefairy ex JTG 184
@@ -39,7 +37,7 @@ Tier **3** | Difficulty: **Extreme** | Gameplan: **Midrange Accumulate**
 * 4 Telepathic {P} Energy POR 88
 * 2 Basic {P} Energy MEE 5
 
-## Lillie's Clefairy ex
+## [Lillie's Clefairy ex](#hidensneak)
 
 Tier **4** | Difficulty: **Hard** | Gameplan: **Midrange**
 
