@@ -5,7 +5,7 @@
 ![decklist](../../!Images/Live%20Expanded/6SUM-PBL/Basic%20Box.png)
 
 ## Thoughts
-*Crispin* is a very powerful card in standard, but for expanded, there are legitimately so many better options. A simple *Rainbow Energy* just puts to shame the whole engine. Without it you're left with a very inconsistent half-functioning toolbox deck that would've benefitted much more from being an *Arceus&Dialga*Palkia-GX* deck. Points for style tho.
+*Crispin* is a very powerful card in standard, but for expanded, there are legitimately so many better options. A simple *Rainbow Energy* just puts to shame the whole engine. Without it you're left with a very inconsistent half-functioning toolbox deck that would've benefitted much more from being an *Arceus&Dialga&Palkia-GX* deck. Points for style tho.
 
 ## List
 * 1 Galarian Moltres V CRE 177
