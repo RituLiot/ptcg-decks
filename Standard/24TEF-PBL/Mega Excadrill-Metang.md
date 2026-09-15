@@ -1,17 +1,15 @@
 # Mega Excadrill/Metang
 
-*[Hero's Cape](#heros-cape)
-*[Secret Box](#secret-box)
+* [Hero's Cape](#heros-cape)
+* [Secret Box](#secret-box)
 
-## Hero's Cape
+## [Hero's Cape](#mega-excadrillmetang)
 
 Tier **3** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
 **Source**: AzulGG - [WORLDS OF DOOM! 2026! DAY TWO!](https://play.limitlesstcg.com/tournament/worlds-of-doom-day-two/player/azulgg/decklist)
 
 ![decklist](../../!Images/Standard/24TEF-PBL/Mega%20Excadrill-Metang%20(Hero%27s%20Cape).png)
-
-[top](#mega-excadrillmetang)
 
 ## List
 * 4 Metang PR-SV 90
@@ -36,15 +34,13 @@ Tier **3** | Difficulty: **Moderate** | Gameplan: **Midrange**
 * 1 Switch MEW 206
 * 17 Basic {M} Energy SVE 24
 
-## Secret Box
+## [Secret Box](#mega-excadrillmetang)
 
 Tier **4** | Difficulty: **Moderate** | Gameplan: **Midrange**
 
 **Source**: Andrew Mahone - TrickyGym Discord server
 
 ![decklist](../../!Images/Standard/24TEF-PBL/Mega%20Excadrill-Metang%20(Secret%20Box).png)
-
-[top](#mega-excadrillmetang)
 
 ## List
 * 3 Drilbur PBL 46
